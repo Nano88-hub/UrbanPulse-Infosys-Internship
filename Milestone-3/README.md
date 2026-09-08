@@ -1,26 +1,39 @@
-# Milestone 3 — TITLE TO BE FILLED IN
+# Milestone 3 — Demand Forecasting & Mode Substitution Analysis
 
-Describe what this milestone covered.
+**City:** Visakhapatnam (Vizag)
 
-> **TODO:** correct the title and description above to match the official
-> Milestone 3 brief from Infosys Springboard.
+Moved from description to prediction: forecast ride demand against vehicle supply, and
+measured how travellers switch transport mode when the weather changes.
 
-## What's in this folder
+📄 **[Read the full report →](report/REPORT.md)**
 
-| Folder | What belongs here | Done? |
-|---|---|---|
-| `data/` | The datasets used in this milestone (`.csv`, `.xlsx`) | ⬜ |
-| `code/` | Data cleaning / analysis scripts and notebooks (`.py`, `.ipynb`) | ⬜ |
-| `dashboard/` | Power BI `.pbix` / Tableau `.twbx` files **and a `.png` screenshot** | ⬜ |
-| `presentation/` | The PPT the team presented for this milestone (`.pptx` or `.pdf`) | ⬜ |
-| `report/` | Written report or documentation (`.docx`, `.pdf`, `.md`) | ⬜ |
+![Demand Forecast Dashboard](dashboard/Demand-Forecast.png)
+![Model Substitution Analysis](dashboard/Model-Substitution.png)
 
-Tick the boxes (change `⬜` to `✅`) as each piece gets added.
+## Contents
 
-## Key findings
+| Folder | Files |
+|---|---|
+| `data/` | `Vizag_Forecasting_Dataset_80.xlsx`, `PowerBI_Model_Substitution_80.xlsx` |
+| `dashboard/` | `Demand-Forecast.pbix` + PNG, `Model-Substitution.pbix` + PNG |
+| `presentation/` | `Milestone-3-Demand-Forecasting.pptx` |
+| `report/` | `REPORT.md` |
 
-- _TODO: write 3–5 bullet points on what this milestone concluded._
+## Key finding — what rain does to demand
 
-## Who worked on it
+| Mode | Sunny | Rainy | Change |
+|---|---:|---:|---|
+| Bike | 35 | **0** | −100% |
+| Auto | 43 | 13 | −70% |
+| Cab | 32 | **50** | **+56%** |
 
-- _TODO: list the teammates who contributed to this milestone._
+Rain does not stop people travelling — it changes **how** they travel. Riders abandon
+open-air modes entirely and switch to cabs.
+
+Other results: off-peak carries **59%** of ride requests, and **Gajuwaka** runs the
+thinnest supply buffer in the city (+0.22) against the second-highest demand.
+
+## Note
+
+No cleaning notebook exists for this milestone — the analysis was done inside Power BI,
+so the transformation steps live in the `.pbix` files.
