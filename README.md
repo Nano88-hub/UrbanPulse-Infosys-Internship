@@ -100,14 +100,23 @@ To view without installing anything, open the `.png` screenshots in each
 
 ## Team
 
-| Name | Role | GitHub |
-|---|---|---|
-| Dnyaneshwari Girase | _e.g. Data Analysis & Dashboards_ | [@Nano88-hub](https://github.com/Nano88-hub) |
-| _Teammate 2_ | | [@username](https://github.com/username) |
-| _Teammate 3_ | | [@username](https://github.com/username) |
-| _Teammate 4_ | | [@username](https://github.com/username) |
+| Member | GitHub |
+|---|---|
+| Dnyaneshwari Girase | [@Nano88-hub](https://github.com/Nano88-hub) |
+| Tejasvi Kushwaha | [@Tejasvi-0907](https://github.com/Tejasvi-0907) |
+| _name to be added_ | [@EvanglinCleetus](https://github.com/EvanglinCleetus) |
+| _name to be added_ | [@Dslbharathi28](https://github.com/Dslbharathi28) |
 
-> **TODO:** fill in the real names, roles and GitHub usernames.
+### How we worked
+
+We deliberately did **not** split into fixed roles. Responsibilities rotated each
+milestone — whoever built the presentation one time built the dashboard the next, while
+another member sourced and cleaned the data.
+
+Every member worked across all five areas: data collection, data cleaning, dashboard
+development, analysis and reporting, and presentation. The intent was that all four of
+us finished the internship able to do the whole pipeline, rather than each of us
+specialising in one slice of it.
 
 ---
 
