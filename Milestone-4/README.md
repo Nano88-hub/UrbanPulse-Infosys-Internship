@@ -1,26 +1,42 @@
-# Milestone 4 — Mobility Equity Analysis
+# Milestone 4 — Mobility Equity & Executive Intelligence Platform
 
-Measured how fairly transit serves different zones and built the final mobility-equity dashboard.
+**City:** Visakhapatnam (Vizag) · **Weeks 7–8**
 
-> **TODO:** correct the title and description above to match the official
-> Milestone 4 brief from Infosys Springboard.
+City agencies can see overall ridership, but not *who is being left behind*. This
+milestone delivered three integrated dashboards combining equity scoring, demand
+forecasting and executive decision support.
 
-## What's in this folder
+📄 **[Read the full report →](report/REPORT.md)**
 
-| Folder | What belongs here | Done? |
-|---|---|---|
-| `data/` | The datasets used in this milestone (`.csv`, `.xlsx`) | ⬜ |
-| `code/` | Data cleaning / analysis scripts and notebooks (`.py`, `.ipynb`) | ⬜ |
-| `dashboard/` | Power BI `.pbix` / Tableau `.twbx` files **and a `.png` screenshot** | ⬜ |
-| `presentation/` | The PPT the team presented for this milestone (`.pptx` or `.pdf`) | ⬜ |
-| `report/` | Written report or documentation (`.docx`, `.pdf`, `.md`) | ⬜ |
+## Contents
 
-Tick the boxes (change `⬜` to `✅`) as each piece gets added.
+| Folder | Files |
+|---|---|
+| `data/` | `vizag_mobility_equity_updated.xlsx` (96 trip records, May 2024) |
+| `dashboard/` | `Milestone-4-Dashboard.pbix` (3 dashboards) |
+| `presentation/` | `Milestone-4-Mobility-Equity.pptx` |
+| `report/` | `REPORT.md` |
 
-## Key findings
+## The three dashboards
 
-- _TODO: write 3–5 bullet points on what this milestone concluded._
+1. **Mobility Equity** — every zone scored against a citywide access index of **0.513**
+2. **Forecasting & Anomaly Detection** — flagged the 30 May demand spike (~1,900 trips
+   vs a 600–700 average) and the 10 May Pendurthi service dip
+3. **Executive Mobility Intelligence** — consolidated alerts and prioritised actions
 
-## Who worked on it
+## Key finding
 
-- _TODO: list the teammates who contributed to this milestone._
+**845,000 residents are underserved citywide.**
+
+**Gajuwaka is the clearest priority:** worst access score (0.30), worst service coverage
+(27.7%), longest travel time (54.0 min) — and the largest population of any zone
+(320,000). Rushikonda scores equally badly but holds only 60,000 people, so the same
+investment reaches a fifth as many residents.
+
+Access tracks route provision almost linearly: Seethammadhara has 24 routes and scores
+0.85; Rushikonda has 6 and scores 0.30.
+
+## ⚠️ Missing
+
+No dashboard screenshot has been exported yet. GitHub cannot preview `.pbix` files, so
+adding a PNG per dashboard would make this milestone far more readable.
