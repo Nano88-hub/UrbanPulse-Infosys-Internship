@@ -89,9 +89,38 @@ reference chart in the dashboard instead.
 
 ## 6. Dashboard
 
+![Urban Pulse Smart Mobility Intelligence Dashboard](../dashboard/Milestone-1-Dashboard.png)
+
 [`../dashboard/Milestone-1-Dashboard.pbix`](../dashboard/Milestone-1-Dashboard.pbix)
-presents KPI cards, traffic trend lines, mobility insights and population analysis,
-sliceable by zone and date.
+
+### KPI cards
+
+| Metric | Value |
+|---|---|
+| Bengaluru population | 8M |
+| Average temperature | 24.30 °C |
+| Average traffic volume | 29.24K |
+| Average trip length | 71.27 km |
+
+### Visuals and what they show
+
+| Visual | Observation |
+|---|---|
+| Annual Traffic Volume Trend | Volume **falls from ~100M (2022) to ~60M (2024)** — a decline of roughly 40% |
+| Top 10 Areas by Households | Dominated by the Bangalore and BBMP administrative aggregates |
+| Per Capita Trip Rate by Zone | Declines from ~1.5 in central zones to ~1.05 in Devanahalli and Doddaballapura |
+| Monthly Temperature Range | Max and min tracked monthly; peak spread around March–April |
+
+### Two observations worth carrying forward
+
+1. **Traffic volume declined sharply across the three-year window.** A 40% drop is large
+   enough that it should be verified against the source before being presented as a real
+   trend — it may reflect changing sensor coverage rather than falling traffic.
+
+2. **Per-capita trip rate falls with distance from the centre.** Central zones generate
+   ~1.5 trips per capita against ~1.05 in outer zones. This is the same
+   centre-versus-periphery access gap that Milestone 4 later quantifies formally in
+   Visakhapatnam — the pattern appears in Bangalore first.
 
 ## 7. Outcome
 

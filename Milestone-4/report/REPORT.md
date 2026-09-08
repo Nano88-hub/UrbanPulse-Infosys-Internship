@@ -120,6 +120,18 @@ service, so a weather event became a service failure.
 
 ## 6. Dashboard 03 — Executive Mobility Intelligence
 
+![Executive Mobility Intelligence Dashboard](../dashboard/Milestone-4-Executive-Dashboard.png)
+
+### Headline KPIs
+
+| Metric | Value |
+|---|---|
+| Mobility Access Index | 51.32 |
+| Total trips | 13K |
+| Average travel time | 42.02 min |
+| **Underserved population** | **845K** |
+| Average service coverage | 47.50% |
+
 ### Alerts
 
 | Alert | Zones affected |

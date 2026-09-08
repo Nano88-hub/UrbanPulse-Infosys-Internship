@@ -8,6 +8,8 @@ forecasting and executive decision support.
 
 📄 **[Read the full report →](report/REPORT.md)**
 
+![Executive Mobility Intelligence Dashboard](dashboard/Milestone-4-Executive-Dashboard.png)
+
 ## Contents
 
 | Folder | Files |
