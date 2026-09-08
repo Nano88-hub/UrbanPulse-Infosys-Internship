@@ -128,6 +128,17 @@ estimates. Each report documents its own limitations.
 
 ---
 
+## License
+
+The team's own work — code, dashboards, reports and presentations — is released under
+the [MIT License](LICENSE).
+
+**The datasets are not.** They remain the property of their original sources (Infosys
+Springboard, government open data portals, GTFS transit feeds) and are included here for
+academic demonstration only.
+
+---
+
 ## Acknowledgement
 
 Developed as part of the **Infosys Springboard Virtual Internship**.
