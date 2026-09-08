@@ -36,7 +36,8 @@ investment reaches a fifth as many residents.
 Access tracks route provision almost linearly: Seethammadhara has 24 routes and scores
 0.85; Rushikonda has 6 and scores 0.30.
 
-## ⚠️ Missing
+## Why there is no `code/` folder
 
-No dashboard screenshot has been exported yet. GitHub cannot preview `.pbix` files, so
-adding a PNG per dashboard would make this milestone far more readable.
+The equity dataset was supplied already cleaned, so no data-cleaning step was
+required. The Mobility Access Index and all three dashboards were built directly
+in Power BI, and those steps live inside the `.pbix` file.

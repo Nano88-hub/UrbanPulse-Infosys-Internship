@@ -33,7 +33,8 @@ open-air modes entirely and switch to cabs.
 Other results: off-peak carries **59%** of ride requests, and **Gajuwaka** runs the
 thinnest supply buffer in the city (+0.22) against the second-highest demand.
 
-## Note
+## Why there is no `code/` folder
 
-No cleaning notebook exists for this milestone — the analysis was done inside Power BI,
-so the transformation steps live in the `.pbix` files.
+The datasets for this milestone were supplied already cleaned, so no data-cleaning
+step was required. All modelling and analysis was done directly in Power BI, and
+those steps live inside the `.pbix` files.

@@ -64,9 +64,12 @@ UrbanPulse-Infosys-Internship/
 │   └── report/REPORT.md       <- full written report
 │
 ├── Milestone-2/   (same 5 folders)  Vizag · transit performance
-├── Milestone-3/   (same 5 folders)  Vizag · forecasting & mode substitution
-└── Milestone-4/   (same 5 folders)  Vizag · mobility equity
+├── Milestone-3/   (no code/)        Vizag · forecasting & mode substitution
+└── Milestone-4/   (no code/)        Vizag · mobility equity
 ```
+
+Milestones 3 and 4 have no `code/` folder: their datasets arrived already cleaned, so
+no cleaning step was needed and all modelling was done directly in Power BI.
 
 **Start with each milestone's `report/REPORT.md`** — that's where the analysis,
 figures and recommendations live.

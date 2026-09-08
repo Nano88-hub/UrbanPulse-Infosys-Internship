@@ -139,6 +139,6 @@ Both dashboards include a zone slicer for filtering to individual areas.
 - Bike demand of exactly **0** in rain is suspiciously clean for real-world data and
   may reflect how the dataset was constructed rather than true rider behaviour.
 - The two datasets cover different `Demand` definitions and should not be summed together.
-- No cleaning or modelling notebook was retained for this milestone — the analysis was
-  performed inside Power BI, so the transformation steps are not reproducible outside
-  the `.pbix` files.
+- The datasets were supplied already cleaned, so no cleaning code exists for this
+  milestone. Modelling was done inside Power BI, which means the transformation logic
+  is not reproducible outside the `.pbix` files.
