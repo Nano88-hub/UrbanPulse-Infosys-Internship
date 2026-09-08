@@ -1,0 +1,28 @@
+# ---- Office / Windows junk ----
+# ~$... are the lock files Word/Excel/PowerPoint create while a file is open
+~$*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+
+# ---- Power BI / Tableau temp files ----
+*.pbix.tmp
+*.twb.lock
+*.tde
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# ---- Editors ----
+.vscode/
+.idea/
+
+# ---- Misc ----
+*.log
+*.tmp
