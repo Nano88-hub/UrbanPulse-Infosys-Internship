@@ -76,7 +76,7 @@ UrbanPulse-Infosys-Internship/
 
 | Name | Role | GitHub |
 |---|---|---|
-| Mayur Patel | _e.g. Data Analysis & Dashboards_ | [@your-username](https://github.com/your-username) |
+| Dnyaneshwari Girase | _e.g. Data Analysis & Dashboards_ | [@Nano88-hub](https://github.com/Nano88-hub) |
 | _Teammate 2_ | | [@username](https://github.com/username) |
 | _Teammate 3_ | | [@username](https://github.com/username) |
 | _Teammate 4_ | | [@username](https://github.com/username) |
