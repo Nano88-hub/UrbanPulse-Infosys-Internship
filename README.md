@@ -135,7 +135,7 @@ the [MIT License](LICENSE).
 
 **The datasets are not.** They remain the property of their original sources (Infosys
 Springboard, government open data portals, GTFS transit feeds) and are included here for
-academic demonstration only.
+academic demonstration only. See [NOTICE.md](NOTICE.md) for the full breakdown.
 
 ---
 
