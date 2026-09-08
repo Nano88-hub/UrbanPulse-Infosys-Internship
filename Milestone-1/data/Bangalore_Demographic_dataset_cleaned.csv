@@ -1,0 +1,873 @@
+area_level,area_type,area_name_clean,subdistrict_code,town_village_code,ward_code,num_households,total_population_persons,total_workers_persons,non_workers_persons,literate_population_persons
+District,Total,Bangalore,0,0,0,2393845,9621551,4246927,5374624,7512276
+District,Rural,Bangalore,0,0,0,213207,871607,411407,460200,602859
+District,Urban,Bangalore,0,0,0,2180638,8749944,3835520,4914424,6909417
+Sub-District,Total,Bangalore North,5542,0,0,85722,352420,154962,197458,251933
+Sub-District,Rural,Bangalore North,5542,0,0,64913,270195,118985,151210,188782
+Sub-District,Urban,Bangalore North,5542,0,0,20809,82225,35977,46248,63151
+Sub-District,Total,Bangalore South,5543,0,0,51094,205274,97576,107698,142150
+Sub-District,Rural,Bangalore South,5543,0,0,36931,154523,70645,83878,103328
+Sub-District,Urban,Bangalore South,5543,0,0,14163,50751,26931,23820,38822
+Sub-District,Total,Bangalore East,5544,0,0,24537,102607,45136,57471,71087
+Sub-District,Rural,Bangalore East,5544,0,0,22683,94464,41828,52636,65939
+Sub-District,Urban,Bangalore East,5544,0,0,1854,8143,3308,4835,5148
+Sub-District,Total,Anekal,5545,0,0,130661,517575,256859,260716,369912
+Sub-District,Rural,Anekal,5545,0,0,88680,352425,179949,172476,244810
+Sub-District,Urban,Anekal,5545,0,0,41981,165150,76910,88240,125102
+Sub-District,Total,Area not under any Sub-district,99999,0,0,2101831,8443675,3692394,4751281,6677194
+Sub-District,Rural,Area not under any Sub-district,99999,0,0,0,0,0,0,0
+Sub-District,Urban,Area not under any Sub-district,99999,0,0,2101831,8443675,3692394,4751281,6677194
+Village,Rural,Gopalapura,5542,612749,0,232,1026,354,672,730
+Village,Rural,Kukkanahalli,5542,612750,0,205,935,324,611,615
+Village,Rural,Shamabhattara Palya,5542,612751,0,58,297,143,154,198
+Village,Rural,Totagere,5542,612752,0,212,1165,369,796,840
+Village,Rural,Bommasettihalli,5542,612753,0,75,281,99,182,178
+Village,Rural,Syadamipalya,5542,612754,0,35,162,91,71,112
+Village,Rural,Bethanagere,5542,612755,0,217,977,435,542,632
+Village,Rural,Rampalya,5542,612756,0,58,233,156,77,167
+Village,Rural,Huskur,5542,612757,0,324,1320,483,837,889
+Village,Rural,Agrahara Palya,5542,612758,0,45,225,89,136,170
+Village,Rural,Hosahalli Palya,5542,612759,0,94,425,217,208,287
+Village,Rural,Govindapura,5542,612760,0,72,289,107,182,182
+Village,Rural,Honnasandra,5542,612761,0,228,1059,506,553,658
+Village,Rural,Huchana Palya,5542,612762,0,63,261,163,98,176
+Village,Rural,Pillahalli,5542,612763,0,239,1072,549,523,735
+Village,Rural,Nagarur,5542,612764,0,518,2040,931,1109,1474
+Village,Rural,Kodipalya,5542,612765,0,40,171,116,55,91
+Village,Rural,Seshagiri Rao Palya,5542,612766,0,13,55,30,25,20
+Village,Rural,Mariyanapalya,5542,612767,0,0,0,0,0,0
+Village,Rural,Mathahalli,5542,612768,0,220,890,517,373,633
+Village,Rural,Narasipura,5542,612769,0,128,548,260,288,380
+Village,Rural,Torenagasandra,5542,612770,0,208,885,498,387,617
+Village,Rural,Muniyanapalya,5542,612771,0,21,97,41,56,84
+Village,Rural,Vaderahalli,5542,612772,0,176,759,460,299,516
+Village,Rural,Alur,5542,612773,0,467,1962,760,1202,1421
+Village,Rural,Kuduragere,5542,612774,0,589,2425,1034,1391,1724
+Village,Rural,Thammenahalli,5542,612775,0,308,1256,470,786,850
+Village,Rural,Hanumantha Sagara,5542,612776,0,176,649,298,351,475
+Village,Rural,Heggadadevanapura,5542,612777,0,1254,4820,2850,1970,3635
+Village,Rural,Makali,5542,612778,0,744,2873,1529,1344,2244
+Village,Rural,Adakamaranahalli,5542,612779,0,1056,4137,2039,2098,3130
+Village,Rural,Dasanapura,5542,612780,0,1168,4551,2190,2361,3416
+Village,Rural,Gejjagadahalli,5542,612781,0,251,1052,473,579,707
+Village,Rural,Hullegowdanahalli,5542,612782,0,305,1366,526,840,858
+Village,Rural,Byregowdanahalli,5542,612783,0,173,673,387,286,399
+Village,Rural,Venkatapura,5542,612784,0,40,172,68,104,115
+Village,Rural,Lakkenahalli,5542,612785,0,205,955,442,513,588
+Village,Rural,Kenganahalli,5542,612786,0,91,487,242,245,335
+Village,Rural,Shivanapura,5542,612787,0,330,1372,825,547,878
+Village,Rural,Gowdahalli,5542,612788,0,143,586,201,385,386
+Village,Rural,Harokyathanahalli,5542,612789,0,670,2513,1303,1210,1889
+Village,Rural,Narayanappana Palya,5542,612790,0,58,212,95,117,113
+Village,Rural,Madavara,5542,612791,0,2307,8742,4398,4344,6324
+Village,Rural,Siddanahosahalli,5542,612792,0,1694,6165,3347,2818,5020
+Village,Rural,Dombarahalli,5542,612793,0,724,2640,1190,1450,2036
+Village,Rural,Gavipalya,5542,612794,0,0,0,0,0,0
+Village,Rural,Kadaranahalli,5542,612795,0,88,412,140,272,281
+Village,Rural,Avverahalli,5542,612796,0,101,415,148,267,262
+Village,Rural,Hunnigere,5542,612797,0,154,644,221,423,431
+Village,Rural,Sondekoppa,5542,612798,0,881,4045,1595,2450,2907
+Village,Rural,Nagasandra,5542,612799,0,58,253,159,94,128
+Village,Rural,Mallasandra,5542,612800,0,193,830,439,391,536
+Village,Rural,Gollarapalya,5542,612801,0,10,41,13,28,34
+Village,Rural,Ravuthanahalli,5542,612802,0,210,906,346,560,623
+Village,Rural,Kammasandra,5542,612803,0,145,649,264,385,428
+Village,Rural,Lakshmipura,5542,612804,0,454,1895,706,1189,1322
+Village,Rural,K.G.Srikantapura,5542,612805,0,76,299,103,196,213
+Village,Rural,Gangondanahalli,5542,612806,0,844,3420,1509,1911,2571
+Village,Rural,K.G. Lakkenahalli,5542,612807,0,197,877,413,464,545
+Village,Rural,Vaddarahalli,5542,612808,0,81,361,178,183,253
+Village,Rural,Bettahalli,5542,612809,0,175,840,336,504,507
+Village,Rural,Kittana Halli,5542,612810,0,563,2356,1229,1127,1366
+Village,Rural,Gattisiddanahalli,5542,612811,0,0,0,0,0,0
+Village,Rural,Giddenahalli,5542,612812,0,154,674,270,404,358
+Village,Rural,Kadabagere,5542,612813,0,1358,5235,1885,3350,4058
+Village,Rural,Byandahalli,5542,612814,0,191,869,321,548,667
+Village,Rural,Bylakonenahalli,5542,612815,0,115,490,201,289,324
+Village,Rural,Machohalli,5542,612816,0,1659,6468,2733,3735,4676
+Village,Rural,Kachohalli,5542,612817,0,2147,8347,3753,4594,5761
+Village,Rural,Ganigarahalli,5542,612818,0,406,1799,747,1052,1129
+Village,Rural,Somashetti Halli,5542,612819,0,531,2164,1045,1119,1507
+Village,Rural,Lakshmipura,5542,612820,0,958,3895,1597,2298,2676
+Village,Rural,Thirumalapura,5542,612821,0,0,0,0,0,0
+Village,Rural,Kodigehalli(Part),5542,612822,0,39,163,63,100,135
+Village,Rural,Seegehalli,5542,612823,0,410,1609,820,789,1108
+Village,Rural,Kannahalli,5542,612824,0,385,1579,713,866,1165
+Village,Rural,Manganahalli,5542,612825,0,637,2626,1083,1543,1736
+Village,Rural,Sonnenahalli,5542,612826,0,302,1343,671,672,834
+Village,Rural,Challahalli,5542,612827,0,180,803,553,250,578
+Village,Rural,Haniyur,5542,612828,0,237,972,490,482,649
+Village,Rural,Kakkehalli,5542,612829,0,65,237,79,158,140
+Village,Rural,Nellukunte,5542,612830,0,72,298,92,206,202
+Village,Rural,Kadathanamale,5542,612831,0,110,500,178,322,356
+Village,Rural,Marasandra Amanikere,5542,612832,0,612,2343,1022,1321,1702
+Village,Rural,Suradenpura,5542,612833,0,366,1734,738,996,1122
+Village,Rural,Adde Vishwanathapura,5542,612834,0,398,1762,777,985,1259
+Village,Rural,Arakere,5542,612835,0,182,772,311,461,393
+Village,Rural,Byrapura,5542,612836,0,131,638,319,319,448
+Village,Rural,Channasandra,5542,612837,0,38,167,79,88,102
+Village,Rural,Kamakshipura,5542,612838,0,143,707,275,432,394
+Village,Rural,Seeresandra,5542,612839,0,117,592,242,350,390
+Village,Rural,Byatha,5542,612840,0,201,936,405,531,631
+Village,Rural,Kakolu,5542,612841,0,295,1287,573,714,990
+Village,Rural,Budumanahalli,5542,612842,0,118,561,228,333,378
+Village,Rural,Shanubhoganahalli,5542,612843,0,245,993,459,534,591
+Village,Rural,Chokkanahalli,5542,612844,0,85,379,137,242,232
+Village,Rural,Sreeramanahalli,5542,612845,0,272,1108,414,694,740
+Village,Rural,Sadenahalli,5542,612846,0,370,1463,741,722,916
+Village,Rural,Adiganahalli,5542,612847,0,538,2141,1099,1042,1579
+Village,Rural,Rajanukunte,5542,612848,0,946,3813,1548,2265,2919
+Village,Rural,Ittagallpura,5542,612849,0,106,504,216,288,328
+Village,Rural,Dibburu,5542,612850,0,142,623,259,364,431
+Village,Rural,Koluvarayanahalli,5542,612851,0,75,378,202,176,296
+Village,Rural,Seethakempanahalli,5542,612852,0,175,799,331,468,530
+Village,Rural,Hesaraghatta Grass Farm,5542,612853,0,8,41,16,25,32
+Village,Rural,Dasenahalli,5542,612854,0,236,1034,617,417,730
+Village,Rural,Kalenahalli,5542,612855,0,56,269,130,139,195
+Village,Rural,Mathkur,5542,612856,0,230,1065,457,608,727
+Village,Rural,Linganahalli,5542,612857,0,112,554,258,296,385
+Village,Rural,Muthagada Halli,5542,612858,0,81,315,130,185,185
+Village,Rural,Madappanahalli,5542,612859,0,307,1190,597,593,737
+Village,Rural,Krishnarajapura,5542,612860,0,14,49,30,19,28
+Village,Rural,Mylappanahalli,5542,612861,0,212,940,407,533,631
+Village,Rural,Lingarajapura,5542,612862,0,59,224,113,111,110
+Village,Rural,Shivakote,5542,612863,0,420,1762,663,1099,1280
+Village,Rural,Ivar Kandapura,5542,612864,0,429,1834,854,980,1419
+Village,Rural,Hesaraghatta,5542,612865,0,2002,8166,3299,4867,6052
+Village,Rural,Guddadahalli,5542,612866,0,174,728,350,378,484
+Village,Rural,Bilijaji,5542,612867,0,201,840,433,407,583
+Village,Rural,Kodagi Thirumalapura,5542,612868,0,505,2092,966,1126,1474
+Village,Rural,Thammarasanahalli,5542,612869,0,96,436,190,246,304
+Village,Rural,Madhugirihalli,5542,612870,0,83,405,214,191,251
+Village,Rural,Mavallipura,5542,612871,0,218,1000,387,613,727
+Village,Rural,Bylakere,5542,612872,0,660,2722,1049,1673,1765
+Village,Rural,Kondashetti Halli,5542,612873,0,67,305,95,210,182
+Village,Rural,Lingarajasagara,5542,612874,0,0,0,0,0,0
+Village,Rural,Kasagattapura,5542,612875,0,655,2660,1037,1623,1972
+Village,Rural,Hurali Chikkanahalli,5542,612876,0,483,1901,731,1170,1443
+Village,Rural,Tharabana Halli,5542,612877,0,582,2161,856,1305,1712
+Village,Rural,Sasiveghatta,5542,612878,0,182,737,243,494,480
+Village,Rural,Soladevanahalli,5542,612879,0,812,2940,909,2031,2270
+Village,Rural,Kumbarahalli,5542,612880,0,357,1459,563,896,1087
+Village,Rural,Kempapura,5542,612881,0,134,566,170,396,431
+Village,Rural,Kalathammanahalli,5542,612882,0,151,670,372,298,417
+Village,Rural,Guniagrahara,5542,612883,0,377,1533,587,946,1086
+Village,Rural,Tarahunase,5542,612884,0,426,1864,789,1075,1090
+Village,Rural,Kuduragere,5542,612885,0,241,1073,610,463,705
+Village,Rural,Gadenahalli,5542,612886,0,122,604,235,369,401
+Village,Rural,Tharabanahalli,5542,612887,0,315,1294,628,666,905
+Village,Rural,Navarathna Agrahara,5542,612888,0,317,1506,690,816,1007
+Village,Rural,Meenakunte,5542,612889,0,550,2040,885,1155,1479
+Village,Rural,Channahalli,5542,612890,0,267,1269,501,768,716
+Village,Rural,Byanahalli,5542,612891,0,102,482,208,274,246
+Village,Rural,Papanahalli,5542,612892,0,8,76,21,55,50
+Village,Rural,Thimmasandra,5542,612893,0,172,797,337,460,528
+Village,Rural,Nellukunte,5542,612894,0,129,1305,320,985,1218
+Village,Rural,Bettahalasur,5542,612895,0,900,3573,1415,2158,2610
+Village,Rural,Chokkanahalli,5542,612896,0,21,124,40,84,96
+Village,Rural,Chikkajala,5542,612897,0,1640,6154,2587,3567,4737
+Village,Rural,Maranayakana Halli,5542,612898,0,327,1272,593,679,817
+Village,Rural,Doddajala,5542,612899,0,389,1660,647,1013,1086
+Village,Rural,Settigere,5542,612900,0,216,925,422,503,582
+Village,Rural,Muthugada Halli,5542,612901,0,78,355,127,228,256
+Village,Rural,Begur,5542,612902,0,93,434,159,275,279
+Village,Rural,Mylanahalli,5542,612903,0,737,3127,1626,1501,2285
+Village,Rural,Chikkanahalli,5542,612904,0,64,291,146,145,176
+Village,Rural,Boilahalli,5542,612905,0,85,392,196,196,222
+Village,Rural,Doddajala Amanikere,5542,612906,0,0,0,0,0,0
+Village,Rural,Meesaganahalli,5542,612907,0,67,361,219,142,239
+Village,Rural,Huttanahalli,5542,612908,0,325,1524,701,823,1070
+Village,Rural,Hosahalli,5542,612909,0,315,1427,706,721,1033
+Village,Rural,Bilmaranahalli,5542,612910,0,94,451,193,258,300
+Village,Rural,Sonnappanahalli,5542,612911,0,992,3932,1780,2152,2529
+Village,Rural,Sathnur,5542,612912,0,455,2151,834,1317,1516
+Village,Rural,Byappanahalli,5542,612913,0,159,676,319,357,385
+Village,Rural,Chagalahatti,5542,612914,0,208,986,366,620,614
+Village,Rural,Bagalur,5542,612915,0,2140,10320,3598,6722,6487
+Village,Rural,Huvinayakanahalli,5542,612916,0,147,642,234,408,417
+Village,Rural,Bandi Kodige Halli,5542,612917,0,305,1305,509,796,837
+Village,Rural,Bandikodegehalli Amanikere,5542,612918,0,0,0,0,0,0
+Village,Rural,Bandi Kodigehalli Palya,5542,612919,0,127,548,197,351,297
+Village,Rural,Hunachur,5542,612920,0,227,944,617,327,619
+Village,Rural,Dummanur,5542,612921,0,0,0,0,0,0
+Village,Rural,Singahalli,5542,612922,0,185,832,287,545,742
+Village,Rural,Gollahalli,5542,612923,0,18,87,27,60,52
+Village,Rural,Arebinnamangala,5542,612924,0,141,720,288,432,437
+Village,Rural,Mahadevakodigehalli,5542,612925,0,297,1455,621,834,945
+Village,Rural,Manchappanahosahalli,5542,612926,0,308,1515,924,591,896
+Village,Rural,Maralakunte,5542,612927,0,285,1251,358,893,763
+Village,Rural,Dasanayakanahalli,5542,612928,0,70,337,135,202,211
+Village,Rural,Marenahalli,5542,612929,0,754,3313,1494,1819,1892
+Village,Rural,Marasandra,5542,612930,0,203,965,435,530,593
+Village,Rural,Challamakunte,5542,612931,0,1,3,3,0,1
+Village,Rural,Honnenahalli,5542,612932,0,318,1151,512,639,837
+Village,Rural,Singanayakanahalli Amanikere,5542,612933,0,0,0,0,0,0
+Village,Rural,Nagadasanahalli,5542,612934,0,128,600,330,270,435
+Village,Rural,Lakshmisagara,5542,612935,0,5,16,9,7,3
+Village,Rural,Muddanahalli,5542,612936,0,68,326,144,182,227
+Village,Rural,Singanayakanahalli,5542,612937,0,732,2877,1264,1613,1938
+Village,Rural,Krishnasagara,5542,612938,0,0,0,0,0,0
+Village,Rural,Avalahalli,5542,612939,0,547,2283,957,1326,1641
+Village,Rural,Gantiganahalli,5542,612940,0,232,1050,406,644,693
+Village,Rural,Ramagondanahalli,5542,612941,0,670,2685,1102,1583,2034
+Village,Rural,Jarakbandekaval,5542,612942,0,15,74,34,40,43
+Village,Rural,Shamarajpura,5542,612943,0,58,242,149,93,171
+Village,Rural,Medi Agrahara,5542,612944,0,141,662,286,376,444
+Village,Rural,Vaderahalli,5542,612945,0,762,3083,1314,1769,2045
+Village,Rural,Veerasagara,5542,612946,0,232,984,477,507,696
+Village,Rural,Kempanahalli,5542,612947,0,105,408,178,230,266
+Town,Urban,Kadigenahalli (CT),5542,612948,0,1602,6587,2803,3784,4241
+Ward,Urban,Kadigenahalli (CT),5542,612948,1,1602,6587,2803,3784,4241
+Town,Urban,Hunasamaranahalli (CT),5542,612949,0,3442,13389,5424,7965,10927
+Ward,Urban,Hunasamaranahalli (CT),5542,612949,1,3442,13389,5424,7965,10927
+Town,Urban,Chikkabanavara (CT),5542,612950,0,3562,14409,5498,8911,11144
+Ward,Urban,Chikkabanavara (CT),5542,612950,1,3562,14409,5498,8911,11144
+Town,Urban,Madanaiyakanahalli (CT),5542,612951,0,3452,12563,6317,6246,9686
+Ward,Urban,Madanaiyakanahalli (CT),5542,612951,1,3452,12563,6317,6246,9686
+Town,Urban,Chikkabidarakallu (CT),5542,612952,0,3083,11554,5351,6203,9383
+Ward,Urban,Chikkabidarakallu (CT),5542,612952,1,3083,11554,5351,6203,9383
+Town,Urban,BBMP (M Corp. + OG) (Part),5542,803162,0,5668,23723,10584,13139,17770
+Ward,Urban,Guddahalli (OG),5542,803162,199,814,3387,1485,1902,2383
+Ward,Urban,Totadaguddadahalli (OG),5542,803162,200,1202,4606,2031,2575,3198
+Ward,Urban,Srikantapura Anchepalya (OG),5542,803162,201,1552,6218,2688,3530,4813
+Ward,Urban,Kodigehalli (OG) (Part),5542,803162,202,1249,5273,2106,3167,3687
+Ward,Urban,Suggatta (OG),5542,803162,208,155,779,386,393,563
+Ward,Urban,Vaderapura (OG),5542,803162,209,696,3460,1888,1572,3126
+Village,Rural,Tavakadahalli,5543,612959,0,0,0,0,0,0
+Village,Rural,Naganahalli,5543,612960,0,80,353,234,119,160
+Village,Rural,Jogerahalli,5543,612961,0,117,501,214,287,360
+Village,Rural,Gangenahalli,5543,612962,0,162,764,383,381,469
+Village,Rural,Varthur Narasimhapura,5543,612963,0,0,0,0,0,0
+Village,Rural,Varthur,5543,612964,0,284,1347,613,734,877
+Village,Rural,Honniganahatti,5543,612965,0,600,2435,1050,1385,1710
+Village,Rural,Channenahalli,5543,612966,0,926,4199,1469,2730,3221
+Village,Rural,Kurubarahalli,5543,612967,0,322,1378,688,690,869
+Village,Rural,Bychaguppe,5543,612968,0,143,637,290,347,391
+Village,Rural,Devamachahalli Narayanapura,5543,612969,0,19,106,41,65,69
+Village,Rural,Devamachohalli,5543,612970,0,137,566,245,321,413
+Village,Rural,Marenahalli,5543,612971,0,63,268,173,95,165
+Village,Rural,Gangappanahalli,5543,612972,0,48,217,80,137,129
+Village,Rural,Thippagondanahalli,5543,612973,0,76,325,119,206,255
+Village,Rural,Kempagondanahalli,5543,612974,0,183,814,373,441,470
+Village,Rural,Madapatna,5543,612975,0,342,1321,534,787,533
+Village,Rural,Cholanaikanahalli,5543,612976,0,376,1578,680,898,1017
+Village,Rural,Ganukal,5543,612977,0,80,345,167,178,231
+Village,Rural,Peddanapalya,5543,612978,0,100,398,168,230,250
+Village,Rural,Tavarekere,5543,612979,0,1663,6989,2710,4279,5082
+Village,Rural,Yalachaguppe Ramapura,5543,612980,0,20,77,49,28,36
+Village,Rural,Yelachaguppe,5543,612981,0,365,1487,863,624,917
+Village,Rural,Puradapalya,5543,612982,0,54,222,95,127,137
+Village,Rural,Doddamaranahalli,5543,612983,0,194,888,402,486,518
+Village,Rural,Ajjanahalli,5543,612984,0,584,2541,991,1550,1702
+Village,Rural,Huluvenahalli,5543,612985,0,255,1149,628,521,663
+Village,Rural,Sulivara,5543,612986,0,336,1465,645,820,936
+Village,Rural,Sulivara Ramapura,5543,612987,0,5,16,10,6,12
+Village,Rural,Chikkanahalli,5543,612988,0,317,1248,542,706,722
+Village,Rural,Vadahalli,5543,612989,0,7,23,12,11,10
+Village,Rural,Kurubarapalya,5543,612990,0,43,194,107,87,111
+Village,Rural,Donnenahalli,5543,612991,0,131,610,243,367,366
+Village,Rural,Byalalu,5543,612992,0,234,1060,461,599,630
+Village,Rural,Chunchanakuppe,5543,612993,0,398,1546,757,789,1028
+Village,Rural,Ganapathihalli,5543,612994,0,396,1578,772,806,1031
+Village,Rural,Karigiripura,5543,612995,0,0,0,0,0,0
+Village,Rural,Muddaiahnapalya,5543,612996,0,93,411,206,205,235
+Village,Rural,Punagumaranahalli,5543,612997,0,73,290,123,167,197
+Village,Rural,Kethohalli,5543,612998,0,255,1101,400,701,729
+Village,Rural,Kethohalli Narasimhapura,5543,612999,0,6,20,6,14,13
+Village,Rural,Kethohalli Ramapura,5543,613000,0,21,105,34,71,68
+Village,Rural,Kolur Gururayanapura,5543,613001,0,7,24,13,11,15
+Village,Rural,Dodderi,5543,613002,0,502,2040,938,1102,981
+Village,Rural,Kolur Nanjundapura,5543,613003,0,9,46,16,30,34
+Village,Rural,Kolur,5543,613004,0,479,1970,913,1057,1190
+Village,Rural,Seshagiripura,5543,613005,0,62,246,108,138,157
+Village,Rural,Chikkellur,5543,613006,0,252,1120,520,600,573
+Village,Rural,Chikkellur Venkatapura,5543,613007,0,5,15,9,6,10
+Village,Rural,Chikkellur Ramapura,5543,613008,0,14,63,32,31,36
+Village,Rural,M.Krishnasagara,5543,613009,0,98,403,151,252,252
+Village,Rural,Kenchanapura,5543,613010,0,178,769,254,515,518
+Village,Rural,Kommaghatta,5543,613011,0,749,2950,1226,1724,2110
+Village,Rural,Sulikere,5543,613012,0,265,1070,389,681,710
+Village,Rural,Maragondanahalli,5543,613013,0,260,1133,441,692,673
+Village,Rural,Bheemanakuppe- Ramasagara,5543,613014,0,0,0,0,0,0
+Village,Rural,Maligondanahalli,5543,613015,0,216,928,440,488,555
+Village,Rural,Ramohalli,5543,613016,0,982,3975,1757,2218,2748
+Village,Rural,Bheemanakuppe,5543,613017,0,830,3321,1414,1907,2622
+Village,Rural,Kommaghatta - Krishnasagara,5543,613018,0,53,216,88,128,148
+Village,Rural,Chalaghatta,5543,613019,0,815,3071,1437,1634,2241
+Village,Rural,Kaniminike,5543,613020,0,649,2408,1152,1256,1651
+Village,Rural,Thagachaguppe,5543,613021,0,446,1741,716,1025,1196
+Village,Rural,Kambipura,5543,613022,0,1507,7018,2922,4096,5349
+Village,Rural,Venkatapura,5543,613023,0,6,14,7,7,6
+Village,Rural,Doddabele,5543,613024,0,673,2652,1154,1498,1813
+Village,Rural,Kengeri Gollahalli,5543,613025,0,482,1912,820,1092,1210
+Village,Rural,Gudimavu,5543,613026,0,111,429,230,199,277
+Village,Rural,Kumbalagodu Gollahalli,5543,613027,0,602,2579,1244,1335,1761
+Village,Rural,Krishnarajapura,5543,613028,0,0,0,0,0,0
+Village,Rural,Hampapura,5543,613029,0,160,688,425,263,457
+Village,Rural,Thippur,5543,613030,0,186,811,312,499,520
+Village,Rural,Gonipura,5543,613031,0,215,950,361,589,659
+Village,Rural,Vasanthanahalli,5543,613032,0,0,0,0,0,0
+Village,Rural,Gangasandra,5543,613033,0,170,781,387,394,561
+Village,Rural,Devagere,5543,613034,0,319,1368,687,681,914
+Village,Rural,Rachanamadu,5543,613035,0,212,986,343,643,569
+Village,Rural,Badamanavarthekaval,5543,613036,0,953,3912,1747,2165,2380
+Village,Rural,Chinnakurchi,5543,613037,0,200,940,431,509,644
+Village,Rural,Seegehalli,5543,613038,0,42,212,88,124,128
+Village,Rural,Agara,5543,613039,0,1886,7758,3729,4029,5226
+Village,Rural,Mallasandra,5543,613040,0,279,1190,946,244,791
+Village,Rural,O.B.Chudahalli,5543,613041,0,319,1255,587,668,894
+Village,Rural,Kaggalipura,5543,613042,0,3012,12452,5864,6588,8454
+Village,Rural,Uttari,5543,613043,0,356,1452,747,705,867
+Village,Rural,Naganayakanahalli,5543,613044,0,176,769,477,292,401
+Village,Rural,Nelaguli,5543,613045,0,285,1198,506,692,652
+Village,Rural,K. Chudahalli,5543,613046,0,296,1371,737,634,771
+Village,Rural,Tharalu,5543,613047,0,555,2810,2039,771,2235
+Village,Rural,Gulakamale,5543,613048,0,548,2293,954,1339,1463
+Village,Rural,Alakabelalu,5543,613049,0,15,62,32,30,34
+Village,Rural,Somanahalli,5543,613050,0,1158,4655,2263,2392,3337
+Village,Rural,Nettigere,5543,613051,0,443,1847,839,1008,1092
+Village,Rural,Ravugodlu,5543,613052,0,340,1397,684,713,856
+Village,Rural,Sunkadakatte,5543,613053,0,110,433,186,247,261
+Village,Rural,Thattaguppe,5543,613054,0,591,2503,1024,1479,1832
+Village,Rural,Vaddarapalya,5543,613055,0,393,1731,800,931,981
+Village,Rural,Doddanagamangala,5543,613056,0,1259,5017,2339,2678,3572
+Village,Rural,Vittasandra,5543,613057,0,293,1184,606,578,649
+Village,Rural,Mylasandra,5543,613058,0,750,3015,1453,1562,1833
+Village,Rural,Hommadevanahalli,5543,613059,0,1171,4777,2303,2474,3419
+Village,Rural,Bettadasanapura,5543,613060,0,412,1777,674,1103,1109
+Village,Rural,Uttarahalli -Manavarthekaval,5543,613061,0,67,244,107,137,199
+Town,Urban,Kumbalagodu (CT),5543,613062,0,2811,10178,4881,5297,7629
+Ward,Urban,Kumbalagodu (CT),5543,613062,1,2811,10178,4881,5297,7629
+Town,Urban,Konappana Agrahara (CT),5543,613063,0,5929,20622,11548,9074,16102
+Ward,Urban,Konappana Agrahara (CT),5543,613063,1,5929,20622,11548,9074,16102
+Town,Urban,BBMP (M Corp. + OG) (Part),5543,803162,0,5423,19951,10502,9449,15091
+Ward,Urban,Ramasandra (OG),5543,803162,203,1169,5251,1810,3441,3463
+Ward,Urban,Doddathoguru (OG),5543,803162,204,4254,14700,8692,6008,11628
+Village,Rural,Mittaganahalli,5544,613065,0,266,1010,513,497,403
+Village,Rural,Kadusonnappanahalli,5544,613066,0,487,2498,1026,1472,1592
+Village,Rural,Doddenahalli,5544,613067,0,0,0,0,0,0
+Village,Rural,Yerappanahalli,5544,613068,0,299,1418,600,818,806
+Village,Rural,Chikkasandra,5544,613069,0,4,15,12,3,12
+Village,Rural,Gundur,5544,613070,0,307,1498,714,784,1036
+Village,Rural,Kada Agrahara,5544,613071,0,195,835,436,399,424
+Village,Rural,Bandebommasandra,5544,613072,0,199,883,383,500,631
+Village,Rural,Anagalapura,5544,613073,0,135,578,240,338,373
+Village,Rural,Nadagowdagollahalli,5544,613074,0,139,681,279,402,365
+Village,Rural,Vaderahalli,5544,613075,0,0,0,0,0,0
+Village,Rural,Rampura,5544,613076,0,598,2680,1128,1552,1752
+Village,Rural,Adur,5544,613077,0,219,931,349,582,671
+Village,Rural,Huvinane,5544,613078,0,0,0,0,0,0
+Village,Rural,Maragondanahalli,5544,613079,0,733,3014,1151,1863,2282
+Village,Rural,Halehalli,5544,613080,0,181,882,372,510,523
+Village,Rural,Kithiganur,5544,613081,0,872,3920,1443,2477,2755
+Village,Rural,Hirandahalli,5544,613082,0,801,3547,1368,2179,2530
+Village,Rural,Bidarahalli,5544,613083,0,624,2621,917,1704,1925
+Village,Rural,Byappanahalli,5544,613084,0,317,1469,660,809,1019
+Village,Rural,Kammasandra,5544,613085,0,78,315,178,137,181
+Village,Rural,Vanajanahalli,5544,613086,0,0,0,0,0,0
+Village,Rural,Kattugollahalli,5544,613087,0,214,966,397,569,561
+Village,Rural,Shringaripura,5544,613088,0,3,15,7,8,13
+Village,Rural,Jothipura,5544,613089,0,262,1227,565,662,877
+Village,Rural,Thirumenahalli,5544,613090,0,112,555,316,239,390
+Village,Rural,Hancharahalli,5544,613091,0,257,1200,476,724,841
+Village,Rural,Raghuvanahalli,5544,613092,0,29,142,71,71,92
+Village,Rural,Kodigehalli,5544,613093,0,38,152,65,87,67
+Village,Rural,Mandur,5544,613094,0,533,2295,919,1376,1653
+Village,Rural,Bendiganahalli,5544,613095,0,48,240,149,91,150
+Village,Rural,Lagumenahalli,5544,613096,0,63,306,196,110,167
+Village,Rural,Bommenahalli,5544,613097,0,289,1320,809,511,849
+Village,Rural,Huskur,5544,613098,0,350,1444,658,786,975
+Village,Rural,Nimbekaipura,5544,613099,0,200,898,334,564,613
+Village,Rural,Cheemasandra,5544,613100,0,925,3631,1714,1917,2552
+Village,Rural,Avalahalli,5544,613101,0,1821,7077,3182,3895,5518
+Village,Rural,Veerenahalli,5544,613102,0,552,2182,1085,1097,1477
+Village,Rural,Kurudusonnenahalli,5544,613103,0,265,1074,698,376,754
+Village,Rural,Dommasandra,5544,613104,0,295,1139,570,569,779
+Village,Rural,Doddabanahalli,5544,613105,0,310,1224,483,741,844
+Village,Rural,Bidare Agrahara,5544,613106,0,440,1869,810,1059,1162
+Village,Rural,Bandapura,5544,613107,0,263,1081,393,688,814
+Village,Rural,Konadasapura,5544,613108,0,1074,4170,2035,2135,2971
+Village,Rural,Katamnallur,5544,613109,0,502,1954,806,1148,1388
+Village,Rural,Goravigere,5544,613110,0,322,1355,795,560,929
+Village,Rural,Khaji Sonnenahalli,5544,613111,0,453,1812,827,985,1322
+Village,Rural,Kannamangala,5544,613112,0,1146,4381,2091,2290,3114
+Village,Rural,Chikkabanahalli,5544,613113,0,299,1275,439,836,834
+Village,Rural,Seegehalli,5544,613114,0,1012,3858,1883,1975,2968
+Village,Rural,Halanayakanahalli,5544,613115,0,926,3648,1628,2020,2579
+Village,Rural,Chikkakannalli,5544,613116,0,16,58,24,34,48
+Village,Rural,Valepura,5544,613117,0,315,1213,467,746,825
+Village,Rural,Kachamaranahalli,5544,613118,0,254,1056,522,534,698
+Village,Rural,Mulluru,5544,613119,0,845,3416,1259,2157,2536
+Village,Rural,Hadosiddapura,5544,613120,0,228,915,457,458,684
+Village,Rural,Chikkanayakanahalli,5544,613121,0,323,1315,606,709,901
+Village,Rural,Kodathi,5544,613122,0,707,2911,1344,1567,2106
+Village,Rural,Sulikunte,5544,613123,0,538,2295,979,1316,1608
+Town,Urban,BBMP (M Corp. + OG) (Part),5544,803162,0,1854,8143,3308,4835,5148
+Ward,Urban,Doddagubbi (OG),5544,803162,205,577,2476,864,1612,1742
+Ward,Urban,Chikkagubbi (OG),5544,803162,206,162,813,236,577,482
+Ward,Urban,Kannur (OG),5544,803162,207,1115,4854,2208,2646,2924
+Village,Rural,Kannaikana Agrahara,5545,613127,0,509,2081,1072,1009,1104
+Village,Rural,Bilwaradahalli,5545,613128,0,876,3591,1723,1868,2387
+Village,Rural,Bhoothanahalli,5545,613129,0,468,1944,941,1003,1039
+Village,Rural,Bannerughatta Kaval,5545,613130,0,59,240,104,136,161
+Village,Rural,Byrappanahalli,5545,613131,0,121,486,204,282,293
+Village,Rural,Bannerughatta,5545,613132,0,2092,8054,3491,4563,5745
+Village,Rural,Gollahalli,5545,613133,0,34,137,76,61,78
+Village,Rural,Kalkere,5545,613134,0,770,2793,1204,1589,2095
+Village,Rural,Vaderahalli,5545,613135,0,19,57,44,13,39
+Village,Rural,Laxmipura,5545,613136,0,349,1524,785,739,891
+Village,Rural,Halesampigehalli,5545,613137,0,249,928,427,501,668
+Village,Rural,Mantapa,5545,613138,0,343,1438,684,754,997
+Village,Rural,Jangal Palya,5545,613139,0,141,520,357,163,311
+Village,Rural,Begihalli,5545,613140,0,364,1412,666,746,908
+Village,Rural,Nallasandra,5545,613141,0,183,803,338,465,544
+Village,Rural,Hullukasavanahalli,5545,613142,0,38,218,93,125,133
+Village,Rural,Sakalawara,5545,613143,0,204,827,421,406,546
+Village,Rural,Hullahalli,5545,613144,0,825,3510,1672,1838,1980
+Village,Rural,Bujangadasanakere,5545,613145,0,0,0,0,0,0
+Village,Rural,Ramasandra,5545,613146,0,73,343,169,174,232
+Village,Rural,Amani Bidarakere,5545,613147,0,0,0,0,0,0
+Village,Rural,Harapanahalli,5545,613148,0,817,3040,1441,1599,2218
+Village,Rural,Bukkasagara,5545,613149,0,435,1748,909,839,1204
+Village,Rural,Kalbalu,5545,613150,0,554,1979,1201,778,1376
+Village,Rural,Mahanthalingapura,5545,613151,0,622,2751,1387,1364,1417
+Village,Rural,Ragihalli,5545,613152,0,402,1655,765,890,867
+Village,Rural,Shivanahalli,5545,613153,0,336,1380,756,624,738
+Village,Rural,Kadajakkanahalli,5545,613154,0,125,566,243,323,349
+Village,Rural,Giddenahalli,5545,613155,0,104,413,144,269,263
+Village,Rural,J.Bingipura,5545,613156,0,17,75,52,23,57
+Village,Rural,Vaderamanchanahalli,5545,613157,0,778,2599,1779,820,1992
+Village,Rural,Koppa,5545,613158,0,337,1474,631,843,1022
+Village,Rural,Koppa Gate,5545,613159,0,369,1415,639,776,823
+Village,Rural,S.Bingipura,5545,613160,0,463,1851,916,935,1070
+Village,Rural,Hulimangala,5545,613161,0,643,2787,1177,1610,1840
+Village,Rural,Thirupalya,5545,613162,0,4251,14762,10726,4036,11765
+Village,Rural,Yarandahalli,5545,613163,0,1472,5732,3392,2340,4340
+Village,Rural,Vabasandra,5545,613164,0,220,733,297,436,494
+Village,Rural,Nanjapura,5545,613165,0,103,405,151,254,219
+Village,Rural,Kyalasanahalli,5545,613166,0,547,1892,922,970,1308
+Village,Rural,Bande Nalla Sandra,5545,613167,0,426,1348,809,539,1032
+Village,Rural,Haragadde,5545,613168,0,2010,7735,4303,3432,5876
+Village,Rural,Mada Patna,5545,613169,0,1092,4076,2396,1680,3100
+Village,Rural,Konasandra,5545,613170,0,151,684,397,287,466
+Village,Rural,Bommandahalli,5545,613171,0,191,798,352,446,433
+Village,Rural,Nosenur Gollahalli,5545,613172,0,110,515,270,245,369
+Village,Rural,Nosenur,5545,613173,0,264,1165,532,633,763
+Village,Rural,Dyavasandra,5545,613174,0,129,564,212,352,393
+Village,Rural,Seethanaikana Halli,5545,613175,0,82,337,135,202,216
+Village,Rural,Rajapura,5545,613176,0,200,912,479,433,634
+Village,Rural,Masthena Halli,5545,613177,0,368,1506,630,876,1027
+Village,Rural,Hinnakki,5545,613178,0,311,1384,514,870,826
+Village,Rural,Hennagara Amanikere,5545,613179,0,0,0,0,0,0
+Village,Rural,Hennagara,5545,613180,0,658,2801,1319,1482,2048
+Village,Rural,Hosahalli,5545,613181,0,191,875,407,468,553
+Village,Rural,Kachanaikanahalli,5545,613182,0,1468,5606,3646,1960,4221
+Village,Rural,Ramakrishnapura,5545,613183,0,73,339,187,152,158
+Village,Rural,Choodasandra,5545,613184,0,605,2476,1431,1045,1535
+Village,Rural,Rayasandra,5545,613185,0,532,2338,860,1478,1529
+Village,Rural,Sriramapura,5545,613186,0,284,1162,484,678,809
+Village,Rural,Gattahalli,5545,613187,0,181,756,167,589,480
+Village,Rural,Janatha Colony,5545,613188,0,171,759,258,501,480
+Village,Rural,Chikkanagamangala,5545,613189,0,192,827,267,560,599
+Village,Rural,Bhovi Palya (Shanthi Pur),5545,613190,0,1195,4379,2617,1762,3148
+Village,Rural,Gulimangala,5545,613191,0,194,849,438,411,596
+Village,Rural,Huskur,5545,613192,0,612,2598,1070,1528,1819
+Village,Rural,Avalahalli,5545,613193,0,106,551,239,312,364
+Village,Rural,Chokkasandra,5545,613194,0,99,432,254,178,279
+Village,Rural,Harohalli,5545,613195,0,107,501,161,340,359
+Village,Rural,Kaggalipura,5545,613196,0,60,232,75,157,170
+Village,Rural,Chintalmadivala,5545,613197,0,222,924,339,585,642
+Village,Rural,Gottamaranahalli,5545,613198,0,4,20,8,12,16
+Village,Rural,Singena Agrahara,5545,613199,0,318,1513,558,955,951
+Village,Rural,Narayanaghatta,5545,613200,0,253,1060,501,559,731
+Village,Rural,Muthanallur,5545,613201,0,398,1663,768,895,1143
+Village,Rural,Ali Bommasandra,5545,613202,0,162,700,257,443,467
+Village,Rural,Muthanallur Amanikere,5545,613203,0,66,239,83,156,178
+Village,Rural,Samanahalli,5545,613204,0,144,566,242,324,374
+Village,Rural,Chikkathimmasandra,5545,613205,0,90,339,163,176,201
+Village,Rural,Gopasandra,5545,613206,0,168,636,357,279,432
+Village,Rural,Kommasandra,5545,613207,0,197,802,258,544,511
+Village,Rural,Thigala Chowdadenahalli,5545,613208,0,938,3532,1593,1939,2722
+Village,Rural,Chikkavaderapura,5545,613209,0,16,44,29,15,34
+Village,Rural,Heggondahalli,5545,613210,0,139,652,223,429,451
+Village,Rural,Halasahalli Thippasandra,5545,613211,0,243,982,423,559,645
+Village,Rural,Chikkanekkundi,5545,613212,0,236,929,375,554,575
+Village,Rural,Nekkundi Dommasandra,5545,613213,0,336,1295,451,844,811
+Village,Rural,Kathriguppe,5545,613214,0,182,838,308,530,587
+Village,Rural,Ramnaikanahalli,5545,613215,0,96,418,175,243,257
+Village,Rural,Chambenahalli,5545,613216,0,266,1271,523,748,877
+Village,Rural,Yamare,5545,613217,0,510,2184,969,1215,1553
+Village,Rural,Sompura,5545,613218,0,311,1160,545,615,784
+Village,Rural,Kadagrahara,5545,613219,0,177,720,391,329,466
+Village,Rural,Chikkadunnasandra,5545,613220,0,0,0,0,0,0
+Village,Rural,B.Hosahalli,5545,613221,0,288,1205,423,782,820
+Village,Rural,Bikkanahalli,5545,613222,0,201,845,402,443,552
+Village,Rural,Sollepura,5545,613223,0,156,678,271,407,477
+Village,Rural,Handenahalli,5545,613224,0,406,1643,658,985,1117
+Village,Rural,Kotiganahalli,5545,613225,0,63,249,147,102,149
+Village,Rural,Bilchikkanahalli,5545,613226,0,13,49,34,15,8
+Village,Rural,S.Medihalli,5545,613227,0,193,797,387,410,507
+Village,Rural,Tyayakana Halli,5545,613228,0,245,1142,454,688,840
+Village,Rural,Byalahalli,5545,613229,0,0,0,0,0,0
+Village,Rural,Adigarakallahalli,5545,613230,0,524,2915,922,1993,1991
+Village,Rural,Billapura,5545,613231,0,644,2242,1207,1035,1687
+Village,Rural,Buragunte,5545,613232,0,205,716,373,343,523
+Village,Rural,Ittangur,5545,613233,0,151,804,290,514,460
+Village,Rural,Volagerekallahalli,5545,613234,0,279,1118,479,639,735
+Village,Rural,Chikkadasarahalli,5545,613235,0,114,502,264,238,354
+Village,Rural,Gonighattapura,5545,613236,0,158,767,358,409,464
+Village,Rural,Neriga,5545,613237,0,289,1351,590,761,881
+Village,Rural,Janthagondanahalli,5545,613238,0,158,703,314,389,452
+Village,Rural,Nagen Agrahara,5545,613239,0,6,18,11,7,13
+Village,Rural,Seeganaikanahalli,5545,613240,0,15,55,17,38,39
+Village,Rural,Madappanahalli,5545,613241,0,92,413,184,229,234
+Village,Rural,Deshapande Guttahalli,5545,613242,0,13,51,24,27,26
+Village,Rural,Banahalli,5545,613243,0,103,475,271,204,305
+Village,Rural,Mugalur,5545,613244,0,330,1442,557,885,1002
+Village,Rural,Kugur,5545,613245,0,191,831,410,421,539
+Village,Rural,Kamanahalli,5545,613246,0,139,585,329,256,366
+Village,Rural,Kuthaganahalli,5545,613247,0,232,1102,581,521,701
+Village,Rural,Doddathimmasandra,5545,613248,0,163,709,366,343,391
+Village,Rural,Thindlu,5545,613249,0,253,1079,529,550,742
+Village,Rural,Mahal Chowdadenahalli,5545,613250,0,127,591,248,343,397
+Village,Rural,Gudighattanahalli,5545,613251,0,10,33,21,12,17
+Village,Rural,Panditana Agrahara,5545,613252,0,193,824,355,469,523
+Village,Rural,Mattanahalli,5545,613253,0,146,658,258,400,402
+Village,Rural,Gollahalli,5545,613254,0,2160,7433,5151,2282,6236
+Village,Rural,Veerasandra,5545,613255,0,2595,9190,5726,3464,7156
+Village,Rural,Kammasandra,5545,613256,0,2749,9912,5267,4645,7890
+Village,Rural,Vaddara Palya,5545,613257,0,1231,4686,2675,2011,3151
+Village,Rural,Andapura,5545,613258,0,524,1769,723,1046,1166
+Village,Rural,Ramasagara,5545,613259,0,520,2199,1138,1061,1553
+Village,Rural,Heelalige,5545,613260,0,1134,4077,2148,1929,3007
+Village,Rural,Chandapura,5545,613261,0,1240,4562,2252,2310,3428
+Village,Rural,Chandrapura -Chatrakane,5545,613262,0,1695,5934,2529,3405,4822
+Village,Rural,Kittaganahalli,5545,613263,0,2064,7280,4073,3207,5465
+Village,Rural,Banahalli,5545,613264,0,1673,5819,3032,2787,4476
+Village,Rural,Iggalur,5545,613265,0,1272,4702,2226,2476,3607
+Village,Rural,Thirumagondanahalli,5545,613266,0,567,2107,1064,1043,1508
+Village,Rural,Balagaranahalli,5545,613267,0,1464,5447,3145,2302,4215
+Village,Rural,Neralur,5545,613268,0,1500,5608,2797,2811,4292
+Village,Rural,Laxmi Sagara,5545,613269,0,216,1007,445,562,641
+Village,Rural,Bendiganahalli,5545,613270,0,183,658,317,341,414
+Village,Rural,Adigondanahalli,5545,613271,0,324,1354,595,759,925
+Village,Rural,Guddahatti,5545,613272,0,380,1635,1040,595,1064
+Village,Rural,Yadavanahalli,5545,613273,0,1744,6422,3893,2529,5047
+Village,Rural,Krishnasagara,5545,613274,0,141,594,457,137,445
+Village,Rural,Itchangur,5545,613275,0,365,1347,823,524,930
+Village,Rural,Muthasandra,5545,613276,0,135,540,288,252,258
+Village,Rural,Kamblipura,5545,613277,0,134,558,250,308,389
+Village,Rural,Mayasandra,5545,613278,0,859,3659,1622,2037,2328
+Village,Rural,M.Medihalli,5545,613279,0,162,659,389,270,330
+Village,Rural,Halehalli,5545,613280,0,197,864,431,433,577
+Village,Rural,Kodlipura,5545,613281,0,198,752,338,414,451
+Village,Rural,Dasanapura,5545,613282,0,350,1433,691,742,883
+Village,Rural,Bhaktipura,5545,613283,0,81,360,171,189,241
+Village,Rural,Arehalli,5545,613284,0,199,851,335,516,540
+Village,Rural,Manchanahalli,5545,613285,0,300,1313,673,640,881
+Village,Rural,Giddenahalli,5545,613286,0,0,0,0,0,0
+Village,Rural,Jigala,5545,613287,0,330,1384,790,594,920
+Village,Rural,Arenur,5545,613288,0,159,630,468,162,448
+Village,Rural,Bidaraguppe,5545,613289,0,848,3787,1856,1931,2584
+Village,Rural,Chikkanahalli,5545,613290,0,70,295,159,136,216
+Village,Rural,Indlabele,5545,613291,0,921,3522,1620,1902,2541
+Village,Rural,Ballur,5545,613292,0,1291,4572,2726,1846,3094
+Village,Rural,Maranaikanahalli,5545,613293,0,158,779,493,286,481
+Village,Rural,Lingapura,5545,613294,0,174,895,370,525,600
+Village,Rural,Soppahalli,5545,613295,0,117,489,221,268,261
+Village,Rural,Kumbaranahalli,5545,613296,0,179,725,306,419,497
+Village,Rural,Suragajakkanahalli,5545,613297,0,308,1311,592,719,893
+Village,Rural,Sonnanayakanapura,5545,613298,0,277,1240,542,698,580
+Village,Rural,Adur,5545,613299,0,150,717,257,460,474
+Village,Rural,Thimmasandra,5545,613300,0,41,194,101,93,111
+Village,Rural,Chikkanahalli,5545,613301,0,64,293,176,117,147
+Village,Rural,Indlawadi,5545,613302,0,439,1933,740,1193,1186
+Village,Rural,Bagganadoddi,5545,613303,0,93,386,212,174,171
+Village,Rural,Indlawadipura,5545,613304,0,129,630,284,346,356
+Village,Rural,Thammanaikanahalli,5545,613305,0,549,2527,1201,1326,1277
+Village,Rural,Chikka Hosahalli,5545,613306,0,280,1367,634,733,859
+Village,Rural,Agasa Thimmanahalli,5545,613307,0,5,22,13,9,15
+Village,Rural,A Medihalli,5545,613308,0,105,451,247,204,307
+Village,Rural,Gowrenahalli,5545,613309,0,450,2226,951,1275,1169
+Village,Rural,Honnakalasapura,5545,613310,0,105,494,241,253,265
+Village,Rural,Sidihosakote,5545,613311,0,331,1591,923,668,1044
+Village,Rural,Kempavaderahalli,5545,613312,0,62,287,123,164,158
+Village,Rural,Dodda Hagade,5545,613313,0,219,898,394,504,527
+Village,Rural,Kunmadivala,5545,613314,0,103,480,215,265,259
+Village,Rural,Byagadadenahalli,5545,613315,0,272,1435,1028,407,1155
+Village,Rural,Marasur,5545,613316,0,770,3034,1578,1456,2170
+Village,Rural,Naganaikanahalli,5545,613317,0,311,1272,575,697,843
+Village,Rural,Madivala,5545,613318,0,634,2792,1072,1720,1846
+Village,Rural,Bandapura,5545,613319,0,207,853,416,437,576
+Village,Rural,Marasur Agrahara,5545,613320,0,30,136,54,82,100
+Village,Rural,Thattanahalli,5545,613321,0,220,923,496,427,590
+Village,Rural,Avadadenahalli,5545,613322,0,148,680,292,388,398
+Village,Rural,Kammasandra Agrahara,5545,613323,0,153,664,389,275,343
+Village,Rural,Amani Doddakere,5545,613324,0,8,32,21,11,19
+Village,Rural,Hasaruvani,5545,613325,0,4,17,11,6,10
+Village,Rural,Anekal (Rural),5545,613326,0,370,1575,696,879,916
+Village,Rural,Chudenahalli,5545,613327,0,115,497,216,281,294
+Village,Rural,Sunavara,5545,613328,0,262,1133,664,469,684
+Village,Rural,Patnagere Gollahalli,5545,613329,0,50,232,105,127,110
+Village,Rural,Bidarakadahalli,5545,613330,0,1,5,5,0,2
+Village,Rural,Kalanaikanahalli,5545,613331,0,82,342,161,181,189
+Village,Rural,Solur,5545,613332,0,102,496,203,293,327
+Village,Rural,Menasiganahalli,5545,613333,0,179,868,375,493,528
+Village,Rural,Vanakanahalli,5545,613334,0,326,1374,519,855,888
+Village,Rural,Singasandra,5545,613335,0,104,434,266,168,292
+Village,Rural,Telagarahalli,5545,613336,0,151,756,352,404,489
+Village,Rural,Hompalaghatta,5545,613337,0,131,631,343,288,387
+Village,Rural,Gudnahalli,5545,613338,0,194,1110,288,822,701
+Village,Rural,Chikkanahatti,5545,613339,0,3,15,7,8,9
+Village,Rural,Geratiganabele,5545,613340,0,218,1078,499,579,637
+Village,Rural,Submangala,5545,613341,0,188,849,434,415,531
+Village,Rural,Muthagatti,5545,613342,0,628,2758,1255,1503,1544
+Village,Rural,Kurubarahatti,5545,613343,0,8,30,16,14,14
+Village,Rural,Haldenahalli,5545,613344,0,342,1456,676,780,990
+Village,Rural,Kaval Hosahalli,5545,613345,0,420,1638,914,724,1062
+Village,Rural,Chikka Hagade,5545,613346,0,185,866,453,413,561
+Village,Rural,Aravantigepura,5545,613347,0,54,247,200,47,144
+Village,Rural,Bestammanahalli,5545,613348,0,195,830,467,363,499
+Village,Rural,Karpur,5545,613349,0,327,2026,638,1388,1558
+Village,Rural,Bidaragere,5545,613350,0,218,1006,513,493,561
+Village,Rural,Rachamanahalli,5545,613351,0,176,773,448,325,368
+Village,Rural,Channena Agrahara,5545,613352,0,95,458,259,199,230
+Village,Rural,Samandur,5545,613353,0,540,2501,1305,1196,1572
+Town,Urban,Dommasandra (CT),5545,613354,0,3188,12610,5384,7226,9481
+Ward,Urban,Dommasandra (CT),5545,613354,1,3188,12610,5384,7226,9481
+Town,Urban,Hebbagodi (CT),5545,613355,0,9623,34827,20240,14587,28258
+Ward,Urban,Hebbagodi (CT),5545,613355,1,9623,34827,20240,14587,28258
+Town,Urban,Maragondahalli (CT),5545,613356,0,2145,8824,3777,5047,5906
+Ward,Urban,Maragondahalli (CT),5545,613356,1,2145,8824,3777,5047,5906
+Town,Urban,Bommasandra (CT),5545,613357,0,4334,15254,7993,7261,12104
+Ward,Urban,Bommasandra (CT),5545,613357,1,4334,15254,7993,7261,12104
+Town,Urban,Sarjapura (CT),5545,613358,0,2680,11807,4456,7351,8441
+Ward,Urban,Sarjapura (CT),5545,613358,1,2680,11807,4456,7351,8441
+Town,Urban,Attibele (CT),5545,613359,0,5252,20532,8378,12154,15785
+Ward,Urban,Attibele (CT),5545,613359,1,5252,20532,8378,12154,15785
+Town,Urban,Jigani (CT),5545,613360,0,4437,17036,8557,8479,12859
+Ward,Urban,Jigani (CT),5545,613360,1,4437,17036,8557,8479,12859
+Town,Urban,Anekal (TMC),5545,803163,0,10322,44260,18125,26135,32268
+Ward,Urban,Anekal (TMC),5545,803163,1,227,1091,522,569,860
+Ward,Urban,Anekal (TMC),5545,803163,2,414,1795,835,960,1218
+Ward,Urban,Anekal (TMC),5545,803163,3,361,1638,633,1005,1277
+Ward,Urban,Anekal (TMC),5545,803163,4,715,3094,1143,1951,2366
+Ward,Urban,Anekal (TMC),5545,803163,5,502,2187,873,1314,1636
+Ward,Urban,Anekal (TMC),5545,803163,6,520,2078,830,1248,1627
+Ward,Urban,Anekal (TMC),5545,803163,7,428,1816,585,1231,1429
+Ward,Urban,Anekal (TMC),5545,803163,8,659,2761,1200,1561,1960
+Ward,Urban,Anekal (TMC),5545,803163,9,759,3027,1262,1765,2111
+Ward,Urban,Anekal (TMC),5545,803163,10,329,1393,557,836,1111
+Ward,Urban,Anekal (TMC),5545,803163,11,236,1028,363,665,760
+Ward,Urban,Anekal (TMC),5545,803163,12,455,1886,756,1130,1380
+Ward,Urban,Anekal (TMC),5545,803163,13,473,2068,798,1270,1639
+Ward,Urban,Anekal (TMC),5545,803163,14,294,1379,617,762,1024
+Ward,Urban,Anekal (TMC),5545,803163,15,305,1269,493,776,1001
+Ward,Urban,Anekal (TMC),5545,803163,16,293,1232,548,684,946
+Ward,Urban,Anekal (TMC),5545,803163,17,391,1833,816,1017,1171
+Ward,Urban,Anekal (TMC),5545,803163,18,401,1822,803,1019,1301
+Ward,Urban,Anekal (TMC),5545,803163,19,292,1372,494,878,1003
+Ward,Urban,Anekal (TMC),5545,803163,20,541,2229,1095,1134,1390
+Ward,Urban,Anekal (TMC),5545,803163,21,634,2602,1004,1598,1982
+Ward,Urban,Anekal (TMC),5545,803163,22,409,1764,803,961,1010
+Ward,Urban,Anekal (TMC),5545,803163,23,684,2896,1095,1801,2066
+Town,Urban,BBMP (M Corp. + OG) (Part),99999,803162,0,2101831,8443675,3692394,4751281,6677194
+Town,Urban,BBMP (M Corp.) (Part),99999,803162,0,2101831,8443675,3692394,4751281,6677194
+Ward,Urban,BBMP (M Corp.),99999,803162,1,8647,34783,14794,19989,27748
+Ward,Urban,BBMP (M Corp.),99999,803162,2,9506,36602,16865,19737,27160
+Ward,Urban,BBMP (M Corp.),99999,803162,3,14605,58129,23818,34311,46738
+Ward,Urban,BBMP (M Corp.),99999,803162,4,10583,41986,17722,24264,33599
+Ward,Urban,BBMP (M Corp.),99999,803162,5,12387,52025,20445,31580,37879
+Ward,Urban,BBMP (M Corp.),99999,803162,6,16470,71855,28442,43413,53331
+Ward,Urban,BBMP (M Corp.),99999,803162,7,18691,72154,32155,39999,57202
+Ward,Urban,BBMP (M Corp.),99999,803162,8,12036,47546,20690,26856,36899
+Ward,Urban,BBMP (M Corp.),99999,803162,9,14448,57195,23935,33260,47177
+Ward,Urban,BBMP (M Corp.),99999,803162,10,8379,36396,16278,20118,30824
+Ward,Urban,BBMP (M Corp.),99999,803162,11,8519,37128,14587,22541,26649
+Ward,Urban,BBMP (M Corp.),99999,803162,12,15530,61071,25695,35376,48135
+Ward,Urban,BBMP (M Corp.),99999,803162,13,11221,41482,18336,23146,32959
+Ward,Urban,BBMP (M Corp.),99999,803162,14,17117,65113,28278,36835,52689
+Ward,Urban,BBMP (M Corp.),99999,803162,15,8849,33042,15657,17385,27734
+Ward,Urban,BBMP (M Corp.),99999,803162,16,9191,37959,16389,21570,31909
+Ward,Urban,BBMP (M Corp.),99999,803162,17,12553,49610,20881,28729,39645
+Ward,Urban,BBMP (M Corp.),99999,803162,18,9058,35122,15041,20081,29046
+Ward,Urban,BBMP (M Corp.),99999,803162,19,8153,32491,12927,19564,26729
+Ward,Urban,BBMP (M Corp.),99999,803162,20,6592,27361,10684,16677,21940
+Ward,Urban,BBMP (M Corp.),99999,803162,21,8181,32516,13610,18906,26072
+Ward,Urban,BBMP (M Corp.),99999,803162,22,12704,51592,21176,30416,40447
+Ward,Urban,BBMP (M Corp.),99999,803162,23,12295,60483,21012,39471,45258
+Ward,Urban,BBMP (M Corp.),99999,803162,24,13612,58967,24149,34818,46225
+Ward,Urban,BBMP (M Corp.),99999,803162,25,23999,95368,41385,53983,75605
+Ward,Urban,BBMP (M Corp.),99999,803162,26,11674,47358,20273,27085,36787
+Ward,Urban,BBMP (M Corp.),99999,803162,27,12922,51268,22860,28408,42547
+Ward,Urban,BBMP (M Corp.),99999,803162,28,11479,47074,21673,25401,37548
+Ward,Urban,BBMP (M Corp.),99999,803162,29,8700,33588,14490,19098,28353
+Ward,Urban,BBMP (M Corp.),99999,803162,30,9758,45748,16423,29325,34070
+Ward,Urban,BBMP (M Corp.),99999,803162,31,8192,41936,14359,27577,31231
+Ward,Urban,BBMP (M Corp.),99999,803162,32,9540,39334,17038,22296,32391
+Ward,Urban,BBMP (M Corp.),99999,803162,33,10572,47926,18374,29552,37500
+Ward,Urban,BBMP (M Corp.),99999,803162,34,6058,24308,9748,14560,19963
+Ward,Urban,BBMP (M Corp.),99999,803162,35,8825,36738,14761,21977,32040
+Ward,Urban,BBMP (M Corp.),99999,803162,36,9592,37036,15345,21691,30444
+Ward,Urban,BBMP (M Corp.),99999,803162,37,10326,41107,16911,24196,33156
+Ward,Urban,BBMP (M Corp.),99999,803162,38,9524,36879,18252,18627,27664
+Ward,Urban,BBMP (M Corp.),99999,803162,39,16537,59289,33082,26207,47874
+Ward,Urban,BBMP (M Corp.),99999,803162,40,19506,72794,37037,35757,55069
+Ward,Urban,BBMP (M Corp.),99999,803162,41,15805,57814,34557,23257,45614
+Ward,Urban,BBMP (M Corp.),99999,803162,42,10620,41352,22023,19329,30095
+Ward,Urban,BBMP (M Corp.),99999,803162,43,13291,51200,24523,26677,40583
+Ward,Urban,BBMP (M Corp.),99999,803162,44,10051,40212,18024,22188,31605
+Ward,Urban,BBMP (M Corp.),99999,803162,45,8503,34196,13572,20624,28811
+Ward,Urban,BBMP (M Corp.),99999,803162,46,7696,31449,12301,19148,26399
+Ward,Urban,BBMP (M Corp.),99999,803162,47,8941,42135,16403,25732,28559
+Ward,Urban,BBMP (M Corp.),99999,803162,48,7419,35814,12555,23259,25356
+Ward,Urban,BBMP (M Corp.),99999,803162,49,8850,37955,14916,23039,29653
+Ward,Urban,BBMP (M Corp.),99999,803162,50,12384,49094,22549,26545,37912
+Ward,Urban,BBMP (M Corp.),99999,803162,51,11087,46159,18945,27214,36584
+Ward,Urban,BBMP (M Corp.),99999,803162,52,8961,35168,14711,20457,28524
+Ward,Urban,BBMP (M Corp.),99999,803162,53,11936,48585,19676,28909,36707
+Ward,Urban,BBMP (M Corp.),99999,803162,54,12579,50191,23792,26399,38041
+Ward,Urban,BBMP (M Corp.),99999,803162,55,8638,33946,15274,18672,26371
+Ward,Urban,BBMP (M Corp.),99999,803162,56,11039,43443,18226,25217,34423
+Ward,Urban,BBMP (M Corp.),99999,803162,57,16710,58815,27027,31788,46673
+Ward,Urban,BBMP (M Corp.),99999,803162,58,12200,43983,20369,23614,35010
+Ward,Urban,BBMP (M Corp.),99999,803162,59,10113,40362,16327,24035,33359
+Ward,Urban,BBMP (M Corp.),99999,803162,60,7340,35334,14167,21167,26064
+Ward,Urban,BBMP (M Corp.),99999,803162,61,7941,38050,13916,24134,27268
+Ward,Urban,BBMP (M Corp.),99999,803162,62,7530,34394,13349,21045,26870
+Ward,Urban,BBMP (M Corp.),99999,803162,63,4808,21728,8297,13431,17958
+Ward,Urban,BBMP (M Corp.),99999,803162,64,7641,31118,12586,18532,26172
+Ward,Urban,BBMP (M Corp.),99999,803162,65,9823,35609,14776,20833,31205
+Ward,Urban,BBMP (M Corp.),99999,803162,66,9383,35709,14550,21159,30797
+Ward,Urban,BBMP (M Corp.),99999,803162,67,8667,34574,14481,20093,30066
+Ward,Urban,BBMP (M Corp.),99999,803162,68,11563,44615,19345,25270,36242
+Ward,Urban,BBMP (M Corp.),99999,803162,69,15178,57077,29114,27963,43547
+Ward,Urban,BBMP (M Corp.),99999,803162,70,17262,61479,33382,28097,47242
+Ward,Urban,BBMP (M Corp.),99999,803162,71,18438,66314,34123,32191,51019
+Ward,Urban,BBMP (M Corp.),99999,803162,72,16215,62272,27498,34774,48757
+Ward,Urban,BBMP (M Corp.),99999,803162,73,17739,68922,31196,37726,54039
+Ward,Urban,BBMP (M Corp.),99999,803162,74,11074,43844,19666,24178,33583
+Ward,Urban,BBMP (M Corp.),99999,803162,75,12433,48734,20727,28007,38817
+Ward,Urban,BBMP (M Corp.),99999,803162,76,8489,33236,13440,19796,28468
+Ward,Urban,BBMP (M Corp.),99999,803162,77,8325,33388,14716,18672,27542
+Ward,Urban,BBMP (M Corp.),99999,803162,78,6595,28835,10906,17929,24699
+Ward,Urban,BBMP (M Corp.),99999,803162,79,9052,37291,16480,20811,29094
+Ward,Urban,BBMP (M Corp.),99999,803162,80,8877,35228,15847,19381,29777
+Ward,Urban,BBMP (M Corp.),99999,803162,81,15419,57062,26336,30726,45604
+Ward,Urban,BBMP (M Corp.),99999,803162,82,13453,49631,25721,23910,37819
+Ward,Urban,BBMP (M Corp.),99999,803162,83,11423,43942,17920,26022,34289
+Ward,Urban,BBMP (M Corp.),99999,803162,84,13419,50556,22359,28197,38630
+Ward,Urban,BBMP (M Corp.),99999,803162,85,17755,63083,30091,32992,49025
+Ward,Urban,BBMP (M Corp.),99999,803162,86,11051,39768,19700,20068,31725
+Ward,Urban,BBMP (M Corp.),99999,803162,87,10044,39926,16457,23469,31509
+Ward,Urban,BBMP (M Corp.),99999,803162,88,9741,38251,16818,21433,30801
+Ward,Urban,BBMP (M Corp.),99999,803162,89,8806,33793,14541,19252,28542
+Ward,Urban,BBMP (M Corp.),99999,803162,90,7771,35090,16802,18288,29815
+Ward,Urban,BBMP (M Corp.),99999,803162,91,7074,32689,11471,21218,27045
+Ward,Urban,BBMP (M Corp.),99999,803162,92,7276,37506,12723,24783,29424
+Ward,Urban,BBMP (M Corp.),99999,803162,93,5304,22815,9339,13476,19873
+Ward,Urban,BBMP (M Corp.),99999,803162,94,6599,31208,13224,17984,25422
+Ward,Urban,BBMP (M Corp.),99999,803162,95,8711,37693,16569,21124,27892
+Ward,Urban,BBMP (M Corp.),99999,803162,96,8693,38110,16137,21973,28898
+Ward,Urban,BBMP (M Corp.),99999,803162,97,8253,35721,15565,20156,28454
+Ward,Urban,BBMP (M Corp.),99999,803162,98,8276,32913,12836,20077,27169
+Ward,Urban,BBMP (M Corp.),99999,803162,99,8398,33084,13728,19356,27496
+Ward,Urban,BBMP (M Corp.),99999,803162,100,7495,30333,12810,17523,25409
+Ward,Urban,BBMP (M Corp.),99999,803162,101,7482,30051,12835,17216,24833
+Ward,Urban,BBMP (M Corp.),99999,803162,102,13443,50893,24334,26559,39634
+Ward,Urban,BBMP (M Corp.),99999,803162,103,14168,53532,25022,28510,42442
+Ward,Urban,BBMP (M Corp.),99999,803162,104,6678,26873,11117,15756,22410
+Ward,Urban,BBMP (M Corp.),99999,803162,105,7192,28355,12259,16096,23278
+Ward,Urban,BBMP (M Corp.),99999,803162,106,6077,24181,10519,13662,20292
+Ward,Urban,BBMP (M Corp.),99999,803162,107,9260,36461,15995,20466,31031
+Ward,Urban,BBMP (M Corp.),99999,803162,108,8156,33866,14002,19864,29178
+Ward,Urban,BBMP (M Corp.),99999,803162,109,6842,33292,12158,21134,27525
+Ward,Urban,BBMP (M Corp.),99999,803162,110,6423,27504,11017,16487,23139
+Ward,Urban,BBMP (M Corp.),99999,803162,111,5493,22995,9700,13295,20131
+Ward,Urban,BBMP (M Corp.),99999,803162,112,7844,30638,13005,17633,25807
+Ward,Urban,BBMP (M Corp.),99999,803162,113,10725,38108,18567,19541,31640
+Ward,Urban,BBMP (M Corp.),99999,803162,114,7734,36916,17913,19003,32112
+Ward,Urban,BBMP (M Corp.),99999,803162,115,8466,37060,15016,22044,29878
+Ward,Urban,BBMP (M Corp.),99999,803162,116,10743,48534,20245,28289,36043
+Ward,Urban,BBMP (M Corp.),99999,803162,117,9465,42095,18144,23951,34332
+Ward,Urban,BBMP (M Corp.),99999,803162,118,5953,28784,12509,16275,19257
+Ward,Urban,BBMP (M Corp.),99999,803162,119,5485,27076,9850,17226,21471
+Ward,Urban,BBMP (M Corp.),99999,803162,120,8652,37344,14910,22434,28524
+Ward,Urban,BBMP (M Corp.),99999,803162,121,9061,37354,15957,21397,29240
+Ward,Urban,BBMP (M Corp.),99999,803162,122,10051,40032,18454,21578,28755
+Ward,Urban,BBMP (M Corp.),99999,803162,123,9943,40331,17162,23169,33360
+Ward,Urban,BBMP (M Corp.),99999,803162,124,9068,37347,16097,21250,29140
+Ward,Urban,BBMP (M Corp.),99999,803162,125,5423,21171,9230,11941,18391
+Ward,Urban,BBMP (M Corp.),99999,803162,126,7716,29319,12938,16381,24628
+Ward,Urban,BBMP (M Corp.),99999,803162,127,11125,43729,19206,24523,34105
+Ward,Urban,BBMP (M Corp.),99999,803162,128,8255,35780,14997,20783,26638
+Ward,Urban,BBMP (M Corp.),99999,803162,129,17410,68132,28464,39668,54391
+Ward,Urban,BBMP (M Corp.),99999,803162,130,14511,58199,24050,34149,43375
+Ward,Urban,BBMP (M Corp.),99999,803162,131,10285,42785,21144,21641,29956
+Ward,Urban,BBMP (M Corp.),99999,803162,132,10576,41487,17295,24192,34583
+Ward,Urban,BBMP (M Corp.),99999,803162,133,8456,35113,14292,20821,28220
+Ward,Urban,BBMP (M Corp.),99999,803162,134,10647,49484,20011,29473,36583
+Ward,Urban,BBMP (M Corp.),99999,803162,135,7273,37599,13034,24565,24296
+Ward,Urban,BBMP (M Corp.),99999,803162,136,7751,38639,14498,24141,26509
+Ward,Urban,BBMP (M Corp.),99999,803162,137,7549,36039,13644,22395,26599
+Ward,Urban,BBMP (M Corp.),99999,803162,138,4896,24801,9579,15222,18655
+Ward,Urban,BBMP (M Corp.),99999,803162,139,5903,29344,11421,17923,20304
+Ward,Urban,BBMP (M Corp.),99999,803162,140,7500,32213,12991,19222,26545
+Ward,Urban,BBMP (M Corp.),99999,803162,141,9246,38825,16191,22634,29527
+Ward,Urban,BBMP (M Corp.),99999,803162,142,8643,34666,14022,20644,29790
+Ward,Urban,BBMP (M Corp.),99999,803162,143,7361,32462,12345,20117,27250
+Ward,Urban,BBMP (M Corp.),99999,803162,144,7396,34879,14559,20320,24498
+Ward,Urban,BBMP (M Corp.),99999,803162,145,8948,38309,15851,22458,31305
+Ward,Urban,BBMP (M Corp.),99999,803162,146,7229,30667,12411,18256,23587
+Ward,Urban,BBMP (M Corp.),99999,803162,147,8236,34299,14153,20146,26265
+Ward,Urban,BBMP (M Corp.),99999,803162,148,12575,47004,21409,25595,39133
+Ward,Urban,BBMP (M Corp.),99999,803162,149,14256,54625,23100,31525,41368
+Ward,Urban,BBMP (M Corp.),99999,803162,150,22368,80180,42330,37850,61305
+Ward,Urban,BBMP (M Corp.),99999,803162,151,9719,38316,18350,19966,31793
+Ward,Urban,BBMP (M Corp.),99999,803162,152,10933,39997,19939,20058,33075
+Ward,Urban,BBMP (M Corp.),99999,803162,153,8427,38151,15662,22489,29730
+Ward,Urban,BBMP (M Corp.),99999,803162,154,8624,32640,14346,18294,28331
+Ward,Urban,BBMP (M Corp.),99999,803162,155,9483,36982,15339,21643,30322
+Ward,Urban,BBMP (M Corp.),99999,803162,156,10574,41379,17521,23858,33689
+Ward,Urban,BBMP (M Corp.),99999,803162,157,8668,34653,15794,18859,26789
+Ward,Urban,BBMP (M Corp.),99999,803162,158,11676,45928,20835,25093,33862
+Ward,Urban,BBMP (M Corp.),99999,803162,159,10168,40771,16631,24140,33011
+Ward,Urban,BBMP (M Corp.),99999,803162,160,14408,56897,24660,32237,45755
+Ward,Urban,BBMP (M Corp.),99999,803162,161,12122,46805,19699,27106,37625
+Ward,Urban,BBMP (M Corp.),99999,803162,162,11180,43195,18897,24298,37063
+Ward,Urban,BBMP (M Corp.),99999,803162,163,11997,45572,19663,25909,38561
+Ward,Urban,BBMP (M Corp.),99999,803162,164,11425,43483,18769,24714,35771
+Ward,Urban,BBMP (M Corp.),99999,803162,165,6472,25998,10790,15208,22553
+Ward,Urban,BBMP (M Corp.),99999,803162,166,6492,27040,11569,15471,20262
+Ward,Urban,BBMP (M Corp.),99999,803162,167,8455,32756,13745,19011,28085
+Ward,Urban,BBMP (M Corp.),99999,803162,168,7163,28353,11281,17072,24629
+Ward,Urban,BBMP (M Corp.),99999,803162,169,7423,32066,13390,18676,25300
+Ward,Urban,BBMP (M Corp.),99999,803162,170,7961,33927,14422,19505,26951
+Ward,Urban,BBMP (M Corp.),99999,803162,171,10513,48991,18431,30560,37950
+Ward,Urban,BBMP (M Corp.),99999,803162,172,11517,42624,20277,22347,35671
+Ward,Urban,BBMP (M Corp.),99999,803162,173,9040,33521,15047,18474,27948
+Ward,Urban,BBMP (M Corp.),99999,803162,174,16847,63033,30718,32315,50002
+Ward,Urban,BBMP (M Corp.),99999,803162,175,11368,43585,21811,21774,33741
+Ward,Urban,BBMP (M Corp.),99999,803162,176,14540,52250,25978,26272,43301
+Ward,Urban,BBMP (M Corp.),99999,803162,177,7566,28846,13075,15771,24375
+Ward,Urban,BBMP (M Corp.),99999,803162,178,7985,31034,13448,17586,26374
+Ward,Urban,BBMP (M Corp.),99999,803162,179,6537,25871,12159,13712,22487
+Ward,Urban,BBMP (M Corp.),99999,803162,180,9461,42171,18108,24063,28560
+Ward,Urban,BBMP (M Corp.),99999,803162,181,11881,47182,19931,27251,38495
+Ward,Urban,BBMP (M Corp.),99999,803162,182,10771,41037,16684,24353,34066
+Ward,Urban,BBMP (M Corp.),99999,803162,183,11403,43364,18827,24537,34648
+Ward,Urban,BBMP (M Corp.),99999,803162,184,14675,57209,25161,32048,43717
+Ward,Urban,BBMP (M Corp.),99999,803162,185,11338,46943,19410,27533,35593
+Ward,Urban,BBMP (M Corp.),99999,803162,186,9818,38294,17025,21269,30635
+Ward,Urban,BBMP (M Corp.),99999,803162,187,13230,49207,22061,27146,39117
+Ward,Urban,BBMP (M Corp.),99999,803162,188,13186,49884,22694,27190,39297
+Ward,Urban,BBMP (M Corp.),99999,803162,189,18192,68554,38626,29928,53571
+Ward,Urban,BBMP (M Corp.),99999,803162,190,16903,65890,34274,31616,48615
+Ward,Urban,BBMP (M Corp.),99999,803162,191,18214,71004,34577,36427,54140
+Ward,Urban,BBMP (M Corp.),99999,803162,192,21322,80037,39729,40308,61098
+Ward,Urban,BBMP (M Corp.),99999,803162,193,15272,58355,31525,26830,45436
+Ward,Urban,BBMP (M Corp.),99999,803162,194,13457,51911,22779,29132,38586
+Ward,Urban,BBMP (M Corp.),99999,803162,195,14984,57335,25446,31889,46085
+Ward,Urban,BBMP (M Corp.),99999,803162,196,11049,45608,19194,26414,31936
+Ward,Urban,BBMP (M Corp.),99999,803162,197,16079,62057,27907,34150,48854
+Ward,Urban,BBMP (M Corp.),99999,803162,198,12687,50440,21182,29258,37899

@@ -1,26 +1,30 @@
-# Milestone 1 — Data Collection & Cleaning
+# Milestone 1 — Data Acquisition, Cleaning & Dimensional Modelling
 
-Collected and cleaned the raw Bangalore traffic, weather and demographic datasets, then built the first exploratory Power BI dashboard.
+**City:** Bangalore
 
-> **TODO:** correct the title and description above to match the official
-> Milestone 1 brief from Infosys Springboard.
+Collected four unconnected datasets (traffic, weather, demographic, mobility), cleaned
+them to a consistent standard, solved the missing-join-key problem with a locality→zone
+bridge table, and modelled the result as a star schema for Power BI.
 
-## What's in this folder
+📄 **[Read the full report →](report/REPORT.md)**
 
-| Folder | What belongs here | Done? |
-|---|---|---|
-| `data/` | The datasets used in this milestone (`.csv`, `.xlsx`) | ⬜ |
-| `code/` | Data cleaning / analysis scripts and notebooks (`.py`, `.ipynb`) | ⬜ |
-| `dashboard/` | Power BI `.pbix` / Tableau `.twbx` files **and a `.png` screenshot** | ⬜ |
-| `presentation/` | The PPT the team presented for this milestone (`.pptx` or `.pdf`) | ⬜ |
-| `report/` | Written report or documentation (`.docx`, `.pdf`, `.md`) | ⬜ |
+## Contents
 
-Tick the boxes (change `⬜` to `✅`) as each piece gets added.
+| Folder | Files |
+|---|---|
+| `data/` | 9 CSVs — 4 cleaned source datasets + 5 star-schema tables |
+| `code/` | `Step0_Data_Cleaning.ipynb`, `build_area_zone_bridge.py`, `merge_final.py` |
+| `dashboard/` | `Milestone-1-Dashboard.pbix` |
+| `presentation/` | `Milestone-1-UrbanPulse.pptx` |
+| `report/` | `REPORT.md` |
 
-## Key findings
+## Key numbers
 
-- _TODO: write 3–5 bullet points on what this milestone concluded._
+- **8,936** traffic records enriched with demographic and mobility context
+- **4** siloed datasets unified on a shared `Zone` key
+- Star schema: 1 main fact table + 2 dimensions + 2 supporting fact tables
 
-## Who worked on it
+## ⚠️ Before re-running the code
 
-- _TODO: list the teammates who contributed to this milestone._
+Both `.py` scripts hardcode `os.chdir(r"c:\infosys internship task\given data")`.
+Change that line to your own path or they will fail.
