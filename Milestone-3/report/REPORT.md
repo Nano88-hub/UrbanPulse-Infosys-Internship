@@ -6,16 +6,25 @@
 
 ---
 
-## 1. Objective
+## 1. Problem statement
 
-Milestones 1 and 2 described the network as it *is*. Milestone 3 turned to prediction
-and behaviour, asking two questions:
+> Transportation demand varies significantly based on transportation mode, weather
+> conditions, location and time. These variations influence the choice of transportation
+> mode and can lead to a possible shift in user preference from one mode to another.
+>
+> Understanding these patterns helps in demand forecasting, identifying mode
+> substitution behaviour and supporting better mobility planning.
 
-1. **Can ride demand be forecast**, and does vehicle supply match it?
-2. **What happens to demand when the weather changes** — specifically, what happens to
-   ride-hailing demand during rainy periods?
+## 2. Objectives
 
-## 2. Datasets
+| # | Objective | Description |
+|---|---|---|
+| 1 | **Compare transportation modes** | Analyse and compare demand across Auto, Bike and Cab |
+| 2 | **Analyse weather impact** | Evaluate how Sunny, Rainy, Windy and Cloudy conditions affect demand |
+| 3 | **Identify possible substitution** | Compare Bike and Cab demand under different weather to find substitution patterns |
+| 4 | **Analyse peak hours** | Identify high-demand hours per mode to support planning and resource allocation |
+
+## 3. Datasets
 
 | File | Rows | Purpose |
 |---|---:|---|
@@ -31,7 +40,7 @@ The forecasting dataset additionally carries `Ride_Requests`, `Available_Vehicle
 
 ---
 
-## 3. Finding 1 — Mode substitution is driven by rain
+## 4. Finding 1 — Mode substitution is driven by rain
 
 This is the central result of the milestone.
 
@@ -67,7 +76,7 @@ rainy-weather surge.
 
 ---
 
-## 4. Finding 2 — Demand and supply are broadly matched
+## 5. Finding 2 — Demand and supply are broadly matched
 
 `Supply_Demand_Gap` = `Available_Vehicles` − `Expected_Demand`.
 A positive value means spare vehicles; negative means shortage.
@@ -108,7 +117,7 @@ weighted towards traditional rush hours would misread this network.
 
 ---
 
-## 5. Dashboards
+## 6. Dashboards
 
 | File | Contents |
 |---|---|
@@ -121,7 +130,7 @@ Both dashboards include a zone slicer for filtering to individual areas.
 
 ---
 
-## 6. Recommendations
+## 7. Recommendations
 
 | Priority | Action | Evidence |
 |---|---|---|
@@ -132,7 +141,28 @@ Both dashboards include a zone slicer for filtering to individual areas.
 
 ---
 
-## 7. Limitations
+## 8. Key findings & conclusion
+
+| # | Area | Finding |
+|---|---|---|
+| 1 | **Mode demand** | Cab shows the highest overall demand among the analysed modes (114 vs Auto 102, Bike 56) |
+| 2 | **Weather impact** | Weather conditions measurably affect both total demand and mode preference |
+| 3 | **Possible substitution** | Rainy and unfavourable conditions show a clear shift from **Bike toward Cab** |
+| 4 | **Peak hours** | Modes have distinct hourly demand patterns and peak periods |
+| 5 | **Mobility planning** | Results support demand forecasting, vehicle allocation, peak-hour planning and weather-based planning |
+
+### Conclusion
+
+Transportation demand is influenced by **mode, weather and time**. The Bike vs Cab
+comparison indicates a substitution pattern under unfavourable weather, while the hourly
+analysis identifies peak-demand periods.
+
+Together these give the city a repeatable chain:
+
+**identify peak hours → forecast demand patterns → allocate and prepare vehicles →
+improved service efficiency, reduced wait times and better resource utilisation.**
+
+## 9. Limitations
 
 - **80 rows per dataset is a small sample.** Weather × mode cells contain few
   observations each, so exact figures should be read as directional, not precise.
