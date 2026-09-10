@@ -104,7 +104,7 @@ To view without installing anything, open the `.png` screenshots in each
 |---|---|
 | Dnyaneshwari Girase | [@Nano88-hub](https://github.com/Nano88-hub) |
 | Tejasvi Kushwaha | [@Tejasvi-0907](https://github.com/Tejasvi-0907) |
-| _name to be added_ | [@EvanglinCleetus](https://github.com/EvanglinCleetus) |
+| Evanglin Cleetus | [@EvanglinCleetus](https://github.com/EvanglinCleetus) |
 | Bharathi | [@Dslbharathi28](https://github.com/Dslbharathi28) |
 
 ### How we worked
