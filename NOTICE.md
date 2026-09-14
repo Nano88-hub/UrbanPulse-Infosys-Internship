@@ -11,8 +11,8 @@ The work created by this team:
 
 **Team:** Dnyaneshwari Girase ([@Nano88-hub](https://github.com/Nano88-hub)),
 Tejasvi Kushwaha ([@Tejasvi-0907](https://github.com/Tejasvi-0907)),
-[@EvanglinCleetus](https://github.com/EvanglinCleetus),
-[@Dslbharathi28](https://github.com/Dslbharathi28)
+Evanglin Cleetus ([@EvanglinCleetus](https://github.com/EvanglinCleetus)),
+Bharathi ([@Dslbharathi28](https://github.com/Dslbharathi28))
 
 ## NOT covered — third-party data
 
