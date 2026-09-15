@@ -1,7 +1,7 @@
 # UrbanPulse — Smart City Mobility Intelligence Platform
 
 > Capstone project for the **Infosys Springboard Virtual Internship**
-> Built by a team of 4 across 4 milestones · Bangalore & Visakhapatnam
+> Built by **Team Nano the Car** — 4 members, 4 milestones · Bangalore & Visakhapatnam
 
 ![Route Preference Dashboard](Milestone-2/dashboard/Route-Preference-Dashboard.png)
 
@@ -98,7 +98,7 @@ To view without installing anything, open the `.png` screenshots in each
 
 ---
 
-## Team
+## Team — *Nano the Car*
 
 | Member | GitHub |
 |---|---|
