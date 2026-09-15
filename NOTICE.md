@@ -9,7 +9,7 @@ The work created by this team:
 - Written reports, README files and documentation
 - Presentation decks
 
-**Team — Nano the Car:** Dnyaneshwari Girase ([@Nano88-hub](https://github.com/Nano88-hub)),
+**Team E — Nano Tech:** Dnyaneshwari Girase ([@Nano88-hub](https://github.com/Nano88-hub)),
 Tejasvi Kushwaha ([@Tejasvi-0907](https://github.com/Tejasvi-0907)),
 Evanglin Cleetus ([@EvanglinCleetus](https://github.com/EvanglinCleetus)),
 Bharathi ([@Dslbharathi28](https://github.com/Dslbharathi28))
